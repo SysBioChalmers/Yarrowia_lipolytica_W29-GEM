@@ -2,7 +2,7 @@
 
 - Brief Model Description
 
-This repository contains the current genome-scale metabolic model of _Yarrowia lipolytica_ W29, named **iYali4**.
+This repository contains the current genome-scale metabolic model of _Yarrowia lipolytica_ W29, named **iYali4**. Various different updated versions can be downloaded as [releases](https://github.com/SysBioChalmers/Yarrowia_lipolytica_W29-GEM/releases).
 
 - Abstract:
 
@@ -17,13 +17,13 @@ _Yarrowia lipolytica_ is a promising microbial cell factory for the production o
 
 - Pubmed ID: 28725468
 
-- Last update: 2016-11-01
+- Last update: 2017-10-24
 
 - The model:
 
 |Taxonomy | Template Model | Reactions | Metabolites| Genes |
 | ------------- |:-------------:|:-------------:|:-------------:|-----:|
-|Yarrowia lipolytica W29 |	YeastMetabolicNetwork 7.6| 1985|	1683|	901|
+|Yarrowia lipolytica W29 |	YeastMetabolicNetwork 7.6| 1942|	1691|	847|
 
 
 This repository is administered by [@edkerk](https://github.com/edkerk/), Division of Systems and Synthetic Biology, Department of Biology and Biological Engineering, Chalmers University of Technology

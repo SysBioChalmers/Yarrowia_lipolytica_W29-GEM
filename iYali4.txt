@@ -1,7 +1,7 @@
 Rxn name	Rxn description	Formula	Gene-reaction association	Reversible	LB	UB	Objective
-1	(R)-lactate:ferricytochrome-c 2-oxidoreductase	m1[cy] + 2 m2[mi]  -> 2 m3[mi] + m4[cy] 	(YALI0D09273g and YALI0E03212g) or (YALI0C06446g)	0	  0.00	1000.00	  0.00
-2	(R)-lactate:ferricytochrome-c 2-oxidoreductase	2 m2[mi] + m5[mi]  -> 2 m3[mi] + m6[mi] 	(YALI0E03212g and YALI0D09273g)	0	  0.00	1000.00	  0.00
-4	(S)-lactate:ferricytochrome-c 2-oxidoreductase	2 m2[mi] + m7[cy]  -> 2 m3[mi] + m4[cy] 	(YALI0E03212g and YALI0D09273g)	0	  0.00	1000.00	  0.00
+1	(R)-lactate:ferricytochrome-c 2-oxidoreductase	m1[cy] + 2 m2[mi]  -> 2 m3[mi] + m4[cy] 	(YALI0C06446g and YALI0D09273g) or (YALI0E03212g and YALI0D09273g)	0	  0.00	1000.00	  0.00
+2	(R)-lactate:ferricytochrome-c 2-oxidoreductase	2 m2[mi] + m5[mi]  -> 2 m3[mi] + m6[mi] 	(YALI0C06446g and YALI0D09273g) or (YALI0E03212g and YALI0D09273g)	0	  0.00	1000.00	  0.00
+4	(S)-lactate:ferricytochrome-c 2-oxidoreductase	2 m2[mi] + m7[cy]  -> 2 m3[mi] + m4[cy] 	(YALI0E21307g and YALI0D09273g)	0	  0.00	1000.00	  0.00
 5	1,3-beta-glucan synthase	m8[cy]  -> m9[en] + m10[cy] + m11[cy] 	(YALI0C01411g) or (YALI0E21021g)	0	  0.00	1000.00	  0.00
 6	(1-6)-beta-glucan synthase	m8[cy]  -> m10[cy] + m11[cy] + m12[en] 	(YALI0C14190g)	0	  0.00	1000.00	  0.00
 7	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino)imidazole-4-carboxamide isomerase	m13[cy]  -> m14[cy] 	(YALI0F05192g)	0	  0.00	1000.00	  0.00
@@ -24,8 +24,8 @@ Rxn name	Rxn description	Formula	Gene-reaction association	Reversible	LB	UB	Obje
 26	2-keto-4-methylthiobutyrate transamination	m33[cy] + m50[cy]  -> m51[cy] + m74[cy] 		0	  0.00	1000.00	  0.00
 27	2-methylcitrate dehydratase	m75[mi]  <=> m26[mi] + m76[mi] 	(YALI0E02728g)	1	-1000.00	1000.00	  0.00
 28	2-methylcitrate synthase	m26[mi] + m77[mi] + m78[mi]  -> m28[mi] + m73[mi] + m79[mi] 	(YALI0E00638g) or (YALI0E02684g)	0	  0.00	1000.00	  0.00
-29	2-oxo-4-methyl-3-carboxypentanoate decarboxylation	m10[cy] + m80[cy]  -> m81[cy] + m82[cy] 	(YALI0D01265g)	0	  0.00	  0.00	  0.00
-30	2-oxo-4-methyl-3-carboxypentanoate decarboxylation	m28[mi] + m83[mi]  -> m44[mi] + m84[mi] 	(YALI0D01265g)	0	  0.00	1000.00	  0.00
+29	2-oxo-4-methyl-3-carboxypentanoate decarboxylation	m10[cy] + m80[cy]  -> m81[cy] + m82[cy] 	(YALI0F19910g)	0	-1000.00	1000.00	  0.00
+30	2-oxo-4-methyl-3-carboxypentanoate decarboxylation	m28[mi] + m83[mi]  -> m44[mi] + m84[mi] 	(YALI0D01265g)	0	-1000.00	1000.00	  0.00
 32	3',5'-bisphosphate nucleotidase	m32[cy] + m85[cy]  -> m35[cy] + m86[cy] 	(YALI0F27665g)	0	  0.00	1000.00	  0.00
 33	3',5'-cyclic-nucleotide phosphodiesterase	m32[cy] + m87[cy]  -> m10[cy] + m86[cy] 	(YALI0E32527g) or (YALI0A08041g)	0	  0.00	1000.00	  0.00
 34	3',5'-cyclic-nucleotide phosphodiesterase	m32[cy] + m88[cy]  -> m10[cy] + m89[cy] 	(YALI0A08041g)	0	  0.00	1000.00	  0.00
@@ -141,7 +141,7 @@ Rxn name	Rxn description	Formula	Gene-reaction association	Reversible	LB	UB	Obje
 191	allophanate hydrolase	3 m10[cy] + m32[cy] + m288[cy]  -> 2 m38[cy] + 2 m82[cy] 	(YALI0B14619g) or (YALI0E07271g) or (YALI0E35156g)	0	  0.00	1000.00	  0.00
 192	alpha 1,2-mannosyltransferase	m289[go] + m290[go]  -> m291[go] + m292[go] + m293[go] 	(YALI0A06589g) or (YALI0B01672g) or (YALI0E01892g) or (YALI0F25817g)	0	  0.00	1000.00	  0.00
 194	alpha,alpha-trehalase	m32[cy] + m294[cy]  -> 2 m295[cy] 	(YALI0D15598g)	0	  0.00	1000.00	  0.00
-195	alpha,alpha-trehalose-phosphate synthase (UDP-forming)	m8[cy] + m296[cy]  -> m10[cy] + m11[cy] + m297[cy] 	(YALI0D14476g and YALI0E14685g and YALI0E31086g)	0	  0.00	1000.00	  0.00
+195	alpha,alpha-trehalose-phosphate synthase (UDP-forming)	m8[cy] + m296[cy]  -> m10[cy] + m11[cy] + m297[cy] 	(YALI0E14685g and YALI0D14476g and YALI0E31086g)	0	  0.00	1000.00	  0.00
 199	amidase	m32[cy] + m298[cy]  -> m38[cy] + m299[cy] 	(YALI0F23441g)	0	  0.00	1000.00	  0.00
 200	Aminoacetone:oxygen oxidoreductase(deaminating)(flavin-containing)	m32[cy] + m109[cy] + m300[cy]  -> m38[cy] + m301[cy] + m302[cy] 		0	  0.00	1000.00	  0.00
 201	Aminobutyraldehyde dehydrogenase	m26[mi] + m27[mi] + m303[mi]  -> 2 m28[mi] + m30[mi] + m304[mi] 	(YALI0C03025g) or (YALI0D07942g) or (YALI0E00264g) or (YALI0F04444g)	0	  0.00	1000.00	  0.00
@@ -169,7 +169,7 @@ Rxn name	Rxn description	Formula	Gene-reaction association	Reversible	LB	UB	Obje
 223	ATP adenylyltransferase	m10[cy] + m143[cy] + m266[cy]  -> m35[cy] + m339[cy] 	(YALI0F30349g)	0	  0.00	1000.00	  0.00
 224	ATP adenylyltransferase	m10[cy] + m266[cy] + m268[cy]  -> m35[cy] + m340[cy] 	(YALI0F30349g)	0	  0.00	1000.00	  0.00
 225	ATP phosphoribosyltransferase	m141[cy] + m253[cy]  -> m203[cy] + m341[cy] 	(YALI0C05170g)	0	  0.00	1000.00	  0.00
-226	ATP synthase	3 m10[cy] + m58[mi] + m197[mi]  -> m26[mi] + 2 m28[mi] + m46[mi] 	(NP_075432 and NP_075433 and NP_075437 and YALI0F03179g and YALI0F02893g and YALI0D22022g and YALI0D12584g and YALI0D11814g and YALI0B06831g and YALI0F04774g and YALI0B03982g and YALI0D17490g and YALI0F20306g and YALI0E32164g) or (YALI0B21527g)	0	  0.00	1000.00	  0.00
+226	ATP synthase	3 m10[cy] + m58[mi] + m197[mi]  -> m26[mi] + 2 m28[mi] + m46[mi] 	(NP_075432 and NP_075433 and NP_075437 and YALI0F03179g and YALI0F02893g and YALI0D22022g and YALI0D12584g and YALI0D11814g and YALI0B06831g and YALI0F04774g and YALI0B03982g and YALI0D17490g and YALI0F20306g and YALI0E32164g)	0	  0.00	1000.00	  0.00
 227	ATPase, cytosolic	m32[cy] + m141[cy]  -> m35[cy] + m143[cy] + m342[ex] 	(YALI0B22066g)	0	  0.00	1000.00	  0.00
 228	beta-1,4 mannosyltransferase	m343[cy] + m344[cy]  -> m268[cy] + m345[cy] 	(YALI0E34133g)	0	  0.00	1000.00	  0.00
 229	biotin synthase	m346[cy] + m347[cy]  <=> 2 m10[cy] + m348[cy] 	(YALI0D15400g)	1	-1000.00	1000.00	  0.00
@@ -337,7 +337,7 @@ Rxn name	Rxn description	Formula	Gene-reaction association	Reversible	LB	UB	Obje
 478	glutaminyl-tRNA synthetase	m130[cy] + m141[cy] + m553[cy]  -> m86[cy] + m203[cy] + m554[cy] 	(YALI0C03674g)	0	  0.00	1000.00	  0.00
 479	glutamyl-tRNA synthetase	m50[cy] + m141[cy] + m555[cy]  -> m86[cy] + m203[cy] + m556[cy] 	(YALI0E28468g)	0	  0.00	1000.00	  0.00
 480	glutamyl-tRNA synthetase	m29[mi] + m46[mi] + m557[mi]  -> m48[mi] + m204[mi] + m558[mi] 	(YALI0E17919g)	0	  0.00	1000.00	  0.00
-481	glutathione oxidoreductase	m10[cy] + m40[cy] + m559[cy]  -> m41[cy] + 2 m530[cy] 	(YALI0B13398g) or (YALI0C05467g and YALI0E18029g)	0	  0.00	1000.00	  0.00
+481	glutathione oxidoreductase	m10[cy] + m40[cy] + m559[cy]  -> m41[cy] + 2 m530[cy] 	(YALI0C05467g and YALI0E18029g) or (YALI0B13398g and YALI0E18029g)	0	  0.00	1000.00	  0.00
 482	glutathione oxidoreductase	m28[mi] + m176[mi] + m560[mi]  -> m178[mi] + 2 m561[mi] 	(YALI0E18029g and YALI0F21219g)	0	  0.00	1000.00	  0.00
 483	glutathione peridoxase	m301[cy] + 2 m530[cy]  <=> 2 m32[cy] + m559[cy] 	(YALI0C05467g) or (YALI0E02310g)	1	-1000.00	1000.00	  0.00
 484	glutathione peroxidase, mitochondria	m526[mi] + 2 m561[mi]  <=> 2 m26[mi] + m560[mi] 	(YALI0F21219g)	1	-1000.00	1000.00	  0.00
@@ -401,7 +401,7 @@ Rxn name	Rxn description	Formula	Gene-reaction association	Reversible	LB	UB	Obje
 548	homoserine kinase	m141[cy] + m630[cy]  -> m10[cy] + m143[cy] + m631[cy] 	(YALI0F13453g)	0	  0.00	1000.00	  0.00
 549	homoserine O-trans-acetylase	m68[cy] + m630[cy]  -> m69[cy] + m444[cy] 	(YALI0E00836g)	0	  0.00	1000.00	  0.00
 550	hydrogen peroxide reductase (thioredoxin)	m301[cy] + m632[cy]  -> 2 m32[cy] + m633[cy] 	(YALI0B15125g and YALI0F01496g)	0	  0.00	1000.00	  0.00
-551	hydrogen peroxide reductase (thioredoxin)	m526[mi] + m634[mi]  -> 2 m26[mi] + m635[mi] 	(YALI0F08195g and YALI0F01496g) or (YALI0E23540g)	0	  0.00	1000.00	  0.00
+551	hydrogen peroxide reductase (thioredoxin)	m526[mi] + m634[mi]  -> 2 m26[mi] + m635[mi] 	(YALI0E23540g) or (YALI0F08195g and YALI0F01496g)	0	  0.00	1000.00	  0.00
 552	hydrogen peroxide reductase (thioredoxin)	m222[pe] + m636[pe]  -> 2 m375[pe] + m637[pe] 	(YALI0E25091g and YALI0F01496g)	0	  0.00	1000.00	  0.00
 553	hydroxyacylglutathione hydrolase	m32[cy] + m638[cy]  -> m1[cy] + m10[cy] + m530[cy] 	(YALI0D06974g)	0	  0.00	1000.00	  0.00
 554	hydroxyacylglutathione hydrolase	m26[mi] + m639[mi]  -> m5[mi] + m28[mi] + m561[mi] 	(YALI0D06974g)	0	  0.00	1000.00	  0.00
@@ -489,7 +489,7 @@ Rxn name	Rxn description	Formula	Gene-reaction association	Reversible	LB	UB	Obje
 659	isocitrate dehydrogenase (NADP)	m41[cy] + m738[cy]  <=> m40[cy] + m51[cy] + m82[cy] 	(YALI0F04095g)	1	-1000.00	1000.00	  0.00
 661	isocitrate dehydrogenase (NADP+), peroxisomal	m739[pe] + m740[pe]  <=> m330[pe] + m741[pe] + m742[pe] 	(YALI0F04095g)	1	-1000.00	1000.00	  0.00
 662	isocitrate lyase	m738[cy]  -> m271[cy] + m541[cy] 	(YALI0C16885g) or (YALI0F31999g)	0	  0.00	1000.00	  0.00
-663	isoleucine transaminase	m51[cy] + m743[cy]  <=> m50[cy] + m744[cy] 	(YALI0D01265g)	1	  0.00	  0.00	  0.00
+663	isoleucine transaminase	m51[cy] + m743[cy]  <=> m50[cy] + m744[cy] 	(YALI0F19910g)	1	-1000.00	1000.00	  0.00
 664	isoleucine transaminase	m219[mi] + m745[mi]  <=> m29[mi] + m489[mi] 	(YALI0D01265g)	1	-1000.00	1000.00	  0.00
 665	isoleucyl-tRNA synthetase	m141[cy] + m743[cy] + m746[cy]  -> m86[cy] + m203[cy] + m747[cy] 	(YALI0A00264g)	0	  0.00	1000.00	  0.00
 666	isoleucyl-tRNA synthetase	m46[mi] + m745[mi] + m748[mi]  -> m48[mi] + m204[mi] + m749[mi] 	(YALI0C10780g)	0	  0.00	1000.00	  0.00
@@ -518,7 +518,7 @@ Rxn name	Rxn description	Formula	Gene-reaction association	Reversible	LB	UB	Obje
 696	lactaldehyde dehydrogenase	m32[cy] + m122[cy] + m766[cy]  -> m7[cy] + 2 m10[cy] + m123[cy] 		0	  0.00	1000.00	  0.00
 697	lactoylglutathione lyase	m302[cy] + m530[cy]  -> m638[cy] 	(YALI0E24057g)	0	  0.00	1000.00	  0.00
 698	lanosterol synthase	m774[cy]  -> m449[cy] 	(YALI0F04378g)	0	  0.00	1000.00	  0.00
-699	leucine transaminase	m51[cy] + m775[cy]  <=> m50[cy] + m81[cy] 	(YALI0D01265g)	1	  0.00	  0.00	  0.00
+699	leucine transaminase	m51[cy] + m775[cy]  <=> m50[cy] + m81[cy] 	(YALI0F19910g)	1	-1000.00	1000.00	  0.00
 700	leucine transaminase	m219[mi] + m776[mi]  <=> m29[mi] + m84[mi] 	(YALI0D01265g)	1	-1000.00	1000.00	  0.00
 701	leucyl-tRNA synthetase	m141[cy] + m775[cy] + m777[cy]  -> m86[cy] + m203[cy] + m778[cy] 	(YALI0E24607g)	0	  0.00	1000.00	  0.00
 702	leucyl-tRNA synthetase	m46[mi] + m776[mi] + m779[mi]  -> m48[mi] + m204[mi] + m780[mi] 	(YALI0F02299g)	0	  0.00	1000.00	  0.00
@@ -571,7 +571,7 @@ Rxn name	Rxn description	Formula	Gene-reaction association	Reversible	LB	UB	Obje
 770	NADH dehydrogenase, cytosolic/mitochondrial	m10[cy] + m123[cy] + m468[mi]  -> m122[cy] + m471[mi] 	(YALI0F25135g)	0	  0.00	1000.00	  0.00
 771	NADH kinase	m123[cy] + m141[cy]  -> m10[cy] + m40[cy] + m143[cy] 	(YALI0E23991g) or (YALI0E27874g)	0	  0.00	1000.00	  0.00
 772	NADH kinase mitochondrial	m30[mi] + m46[mi]  -> m28[mi] + m176[mi] + m197[mi] 	(YALI0E23991g) or (YALI0E27874g) or (YALI0E17963g)	0	  0.00	1000.00	  0.00
-773	NADH:ubiquinone oxidoreductase	m28[mi] + m30[mi] + m468[mi]  -> m27[mi] + m471[mi] 	(YALI0F25135g)	0	  0.00	  0.00	  0.00
+773	NADH:ubiquinone oxidoreductase	m28[mi] + m30[mi] + m468[mi]  -> m27[mi] + m471[mi] 	(YALI0F25135g)	0	  0.00	1000.00	  0.00
 774	NAPRtase	m10[cy] + m253[cy] + m824[cy]  -> m203[cy] + m825[cy] 	(YALI0B00220g)	0	  0.00	1000.00	  0.00
 775	NAPRtase	m28[mi] + m826[mi] + m827[mi]  -> m204[mi] + m828[mi] 	(YALI0B00220g)	0	  0.00	1000.00	  0.00
 781	nicotinamidase	m32[cy] + m829[cy]  -> m38[cy] + m824[cy] 	(YALI0A21153g)	0	  0.00	1000.00	  0.00
@@ -795,7 +795,7 @@ Rxn name	Rxn description	Formula	Gene-reaction association	Reversible	LB	UB	Obje
 1084	UTP-glucose-1-phosphate uridylyltransferase	m10[cy] + m439[cy] + m589[cy]  <=> m8[cy] + m203[cy] 	(YALI0A02310g)	1	-1000.00	1000.00	  0.00
 1085	V-ATPase, Golgi	m10[cy] + m32[cy] + m141[cy]  -> m35[cy] + m143[cy] + 2 m293[go] 	(YALI0A11143g and YALI0E11355g and YALI0D00583g and YALI0E08617g and YALI0A09900g and YALI0F15631g and YALI0E16192g and YALI0F24475g and YALI0F16181g and YALI0E31471g and YALI0E27346g and YALI0E09933g) or (YALI0F31119g and YALI0F09405g)	0	  0.00	1000.00	  0.00
 1086	V-ATPase, vacuole	m10[cy] + m32[cy] + m141[cy]  -> m35[cy] + m143[cy] + 2 m1007[va] 	(YALI0A11143g and YALI0E11355g and YALI0D00583g and YALI0E08617g and YALI0A09900g and YALI0F15631g and YALI0E16192g and YALI0F24475g and YALI0F16181g and YALI0E31471g and YALI0E27346g and YALI0E09933g) or (YALI0F31119g and YALI0F09405g)	0	  0.00	  0.00	  0.00
-1087	valine transaminase	m51[cy] + m1008[cy]  <=> m50[cy] + m67[cy] 	(YALI0D01265g)	1	  0.00	  0.00	  0.00
+1087	valine transaminase	m51[cy] + m1008[cy]  <=> m50[cy] + m67[cy] 	(YALI0F19910g)	1	-1000.00	1000.00	  0.00
 1088	valine transaminase, mitochondiral	m219[mi] + m1009[mi]  <=> m29[mi] + m70[mi] 	(YALI0D01265g)	1	-1000.00	1000.00	  0.00
 1089	valyl-tRNA synthetase	m141[cy] + m1008[cy] + m1010[cy]  -> m86[cy] + m203[cy] + m1011[cy] 	(YALI0F20218g)	0	  0.00	1000.00	  0.00
 1090	valyl-tRNA synthetase	m46[mi] + m1009[mi] + m1012[mi]  -> m48[mi] + m204[mi] + m1013[mi] 	(YALI0F20218g)	0	  0.00	1000.00	  0.00
@@ -1981,7 +1981,6 @@ yli0049	3-methylglutaconyl-CoA dehydratase	m26[mi] + m1832[mi]  -> m648[mi] 		0	
 yli0050	hydroxymethylglutaryl-CoA lyase	m648[mi]  -> m71[mi] + m1812[mi] 	(YALI0B22550g)	0	  0.00	1000.00	  0.00
 yli0051	2-oxoadipate dehydrogenase	m27[mi] + m73[mi] + m629[mi]  -> m30[mi] + m44[mi] + m1833[mi] 	(YALI0F23749g)	0	  0.00	1000.00	  0.00
 yli0052	glutaryl-CoA dehydrogenase	m563[mi] + m1833[mi]  -> m44[mi] + m566[mi] + m1834[mi] 	(YALI0E33517g and YALI0E16929g and YALI0D20768g)	0	  0.00	1000.00	  0.00
-yli0053	FAD:ubiquinone oxidoreductase	m468[mi] + m566[mi]  -> m471[mi] + m563[mi] 	(YALI0F23749g)	0	  0.00	1000.00	  0.00
 yli0054	crotonyl-CoA hydratase	m26[mi] + m1834[mi]  <=> m1835[mi] 	(YALI0B10406g)	1	-1000.00	1000.00	  0.00
 yli0055	(S)-3-Hydroxybutanoyl-CoA oxidoreductase	m27[mi] + m1835[mi]  -> m28[mi] + m30[mi] + m190[mi] 	(YALI0C08811g)	0	  0.00	1000.00	  0.00
 Metabolite name	Metabolite description	Metabolite formula
@@ -1994,7 +1993,7 @@ m6[mi]	pyruvate	C3H4O3
 m7[cy]	(S)-lactate	C3H6O3
 m8[cy]	UDP-D-glucose	C15H22N2O17P2
 m9[en]	(1-3)-beta-D-glucan	
-m10[cy]	H+	p+1
+m10[cy]	H+	H
 m11[cy]	UDP	C9H14N2O12P2
 m12[en]	(1-6)-beta-D-glucan	
 m13[cy]	1-(5-phospho-D-ribosyl)-5-[(5-phospho-D-ribosylamino)methylideneamino]imidazole-4-carboxamide	C15H21N5O15P2
@@ -2003,16 +2002,16 @@ m15[vm]	1-phosphatidyl-1D-myo-inositol 3-phosphate
 m16[vm]	ATP	C10H16N5O13P3
 m17[vm]	1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate	
 m18[vm]	ADP	C10H15N5O10P2
-m19[vm]	H+	p+1
+m19[vm]	H+	H
 m20[en]	1-phosphatidyl-1D-myo-inositol 3-phosphate	
 m21[en]	ATP	C10H16N5O13P3
 m22[en]	1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate	
 m23[en]	ADP	C10H15N5O10P2
-m24[en]	H+	p+1
+m24[en]	H+	H
 m25[mi]	1-pyrroline-5-carboxylate	C5H6NO2
 m26[mi]	H2O	H2O
 m27[mi]	NAD	C21H27N7O14P2
-m28[mi]	H+	p+1
+m28[mi]	H+	H
 m29[mi]	L-glutamate	C5H9NO4
 m30[mi]	NADH	C21H29N7O14P2
 m31[cy]	5-(methylsulfanyl)-2,3-dioxopentyl phosphate	C6H9O6PS
@@ -2086,7 +2085,7 @@ m98[cy]	3-dehydroquinate	C7H10O6
 m99[cy]	3-dehydroshikimate	C7H8O5
 m100[cy]	7-phospho-2-dehydro-3-deoxy-D-arabino-heptonic acid	C7H10O10P
 m101[er]	3-ketosphinganine	C18H38NO2
-m102[er]	H+	p+1
+m102[er]	H+	H
 m103[er]	NADPH	C21H30N7O17P3
 m104[er]	NADP(+)	C21H28N7O17P3
 m105[er]	sphinganine	C18H39NO2
@@ -2102,7 +2101,7 @@ m114[cy]	L-alanine	C3H7NO2
 m115[pe]	(R)-3-hydroxytetradecanoyl-CoA	
 m116[pe]	NAD	C21H27N7O14P2
 m117[pe]	3-oxotetradecanoyl-CoA	C35H60N7O18P3S
-m118[pe]	H+	p+1
+m118[pe]	H+	H
 m119[pe]	NADH	C21H29N7O14P2
 m120[cy]	2-amino-3-carboxymuconate-6-semialdehyde	
 m121[cy]	(2R,3S)-3-isopropylmalate	C7H12O5
@@ -2277,7 +2276,7 @@ m289[go]	beta-D-mannosyldiacetylchitobiosyldiphosphodolichol	C37H66N2O22P2
 m290[go]	GDP-alpha-D-mannose	C16H23N5O16P2
 m291[go]	alpha-D-mannosyl-beta-D-mannosyldiacetylchitobiosyldiphosphodolichol	C38H68N2O27P2(C5H8)n
 m292[go]	GDP	C10H15N5O11P2
-m293[go]	H+	p+1
+m293[go]	H+	H
 m294[cy]	trehalose	C12H22O11
 m295[cy]	D-glucose	C6H12O6
 m296[cy]	D-glucose 6-phosphate	C6H13O9P
@@ -2326,7 +2325,7 @@ m338[mi]	Asp-tRNA(Asp)	C14H22NO13PR2(C5H8O6PR)n
 m339[cy]	P1-(5'-adenosyl),P4-(5'-guanosyl) tetraphosphate	
 m340[cy]	P(1),P(4)-bis(5'-guanosyl) tetraphosphate	
 m341[cy]	5-phosphoribosyl-ATP	C15H19N5O20P4
-m342[ex]	H+	p+1
+m342[ex]	H+	H
 m343[cy]	GDP-alpha-D-mannose	C16H23N5O16P2
 m344[cy]	N,N'-diacetylchitobiosyldiphosphodolichol	
 m345[cy]	beta-D-mannosyldiacetylchitobiosyldiphosphodolichol	C37H66N2O22P2
@@ -2361,12 +2360,12 @@ m373[mi]	O-acetylcarnitine	C9H17NO4
 m374[mi]	(R)-carnitine	C7H15NO3
 m375[pe]	H2O	H2O
 m376[em]	CTP	C9H16N3O14P3
-m377[em]	H+	p+1
+m377[em]	H+	H
 m378[em]	phosphatidate	
 m379[em]	CDP-diacylglycerol	
 m380[em]	diphosphate	H4O7P2
 m381[mm]	CTP	C9H16N3O14P3
-m382[mm]	H+	p+1
+m382[mm]	H+	H
 m383[mm]	phosphatidate	
 m384[mm]	CDP-diacylglycerol	
 m385[mm]	diphosphate	H4O7P2
@@ -2611,7 +2610,7 @@ m623[cy]	N(pros)-methyl-L-histidine	C7H11N3O2
 m624[mi]	homoisocitrate	C7H10O7
 m625[nu]	2-oxoglutarate	C5H6O5
 m626[nu]	H2O	H2O
-m627[nu]	H+	p+1
+m627[nu]	H+	H
 m628[nu]	homocitrate	C7H10O7
 m629[mi]	2-oxoadipic acid	C6H6O5
 m630[cy]	L-homoserine	C4H9NO3
@@ -2855,7 +2854,7 @@ m867[cy]	5'-phosphoribosyl-5-aminoimidazole	C8H13N3O7P
 m868[mm]	phosphatidyl-L-serine	C8H11NO10PR2
 m869[mm]	carbon dioxide	CO2
 m870[mm]	phosphatidylethanolamine	C7H12NO8PR2
-m871[gm]	H+	p+1
+m871[gm]	H+	H
 m872[gm]	phosphatidyl-L-serine	C8H11NO10PR2
 m873[gm]	carbon dioxide	CO2
 m874[gm]	phosphatidylethanolamine	C7H12NO8PR2
@@ -2991,7 +2990,7 @@ m1003[nu]	UDP	C9H14N2O12P2
 m1004[nu]	dUMP	C9H13N2O8P
 m1005[nu]	dUDP	C9H14N2O11P2
 m1006[cy]	uroporphyrinogen III	C40H44N4O16
-m1007[va]	H+	p+1
+m1007[va]	H+	H
 m1008[cy]	L-valine	C5H11NO2
 m1009[mi]	L-valine	C5H11NO2
 m1010[cy]	tRNA(Val)	
@@ -3083,16 +3082,16 @@ m1095[ex]	nicotinate	C6H5NO2
 m1096[cy]	stearate	C18H36O2
 m1097[ex]	ornithine	C5H13N2O2
 m1098[ex]	(R)-pantothenate	C9H17NO5
-m1099[ex]	potassium	K.H
-m1100[cy]	potassium	K.H
+m1099[ex]	potassium	KH
+m1100[cy]	potassium	KH
 m1101[ex]	putrescine	C4H12N2
 m1102[va]	putrescine	C4H12N2
 m1103[ex]	pyruvate	C3H4O3
 m1104[ex]	S-adenosyl-L-methionine	C15H22N6O5S
 m1105[ex]	S-methyl-L-methionine	C6H13NO2S
 m1106[cy]	S-methyl-L-methionine	C6H13NO2S
-m1107[cy]	sodium	Na.H
-m1108[ex]	sodium	Na.H
+m1107[cy]	sodium	NaH
+m1108[ex]	sodium	NaH
 m1109[ex]	spermidine	C7H19N3
 m1110[va]	spermidine	C7H19N3
 m1111[ex]	spermine	C10H26N4
@@ -3164,7 +3163,7 @@ m1237[ex]	glutathione disulfide	C20H32N6O12S2
 m1242[ex]	glycolaldehyde	C2H4O2
 m1244[ex]	glyoxylate	C2H2O3
 m1247[ex]	guanosine	C10H13N5O5
-m1249[lp]	H+	p+1
+m1249[lp]	H+	H
 m1251[cy]	hexacosanoyl-CoA	C47H86N7O17P3S
 m1252[ex]	hexadecanal	C16H32O
 m1254[ex]	palmitate	C16H32O2

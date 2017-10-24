@@ -10,7 +10,7 @@ _Yarrowia lipolytica_ is a promising microbial cell factory for the production o
 
 - Model KeyWords:
 
-**GEM Category:** Species **Utilisation:** experimental data reconstruction **Field:** metabolic-network reconstruction **Type of Model:** curated **Model Source:** [YeastMetabolicNetwork](https://github.com/SysBioChalmers/yeast-metabolic-network-7.6) **Omic Source:** [Transcriptomics](http://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-5284/), [Proteomics](https://doi.org/10.6084/m9.figshare.4990394.v1), [Metabolomics](https://doi.org/10.6084/m9.figshare.4990394.v1) **Taxonomy:** Yarrowia lipolytica W29 **Metabolic System:** General Metabolism; **Bioreactor** **Strain:** W29 **Condition:** Minimal medium
+**GEM Category:** Species; **Utilisation:** experimental data reconstruction; **Field:** metabolic-network reconstruction; **Type of Model:** curated; **Model Source:** [YeastMetabolicNetwork](https://github.com/SysBioChalmers/yeast-metabolic-network-7.6); **Omic Source:** [Transcriptomics](http://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-5284/), [Proteomics](https://doi.org/10.6084/m9.figshare.4990394.v1), [Metabolomics](https://doi.org/10.6084/m9.figshare.4990394.v1); **Taxonomy:** Yarrowia lipolytica W29; **Metabolic System:** General Metabolism; **Bioreactor** **Strain:** W29; **Condition:** Minimal medium;
 
 - Reference:  
 >Kerkhoven EJ, Pomraning KR, Baker SE, Nielsen J (2016) "Regulation of amino-acid metabolism controls flux to lipid accumulation in _Yarrowia lipolytica_." npj Systems Biology and Applications 2:16005. doi:[10.1038/npjsba.2016.5](http://www.nature.com/articles/npjsba20165)

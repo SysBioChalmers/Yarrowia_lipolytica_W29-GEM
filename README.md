@@ -1,0 +1,1 @@
+Yarrowia_lipolytica_W29-GEM

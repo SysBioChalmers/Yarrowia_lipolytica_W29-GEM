@@ -36240,2426 +36240,2545 @@
 - genes:
   - !!omap
     - id: NP_075432
+    - name: NP_075432
   - !!omap
     - id: NP_075433
+    - name: NP_075433
   - !!omap
     - id: NP_075434
+    - name: NP_075434
   - !!omap
     - id: NP_075437
+    - name: NP_075437
   - !!omap
     - id: NP_075438
+    - name: NP_075438
   - !!omap
     - id: NP_075443
+    - name: NP_075443
   - !!omap
     - id: YALI0A00264g
-    - name: Q0045
+    - name: YALI0A00264g
   - !!omap
     - id: YALI0A01111g
+    - name: YALI0A01111g
   - !!omap
     - id: YALI0A01133g
-    - name: Q0080
+    - name: YALI0A01133g
   - !!omap
     - id: YALI0A02310g
-    - name: Q0085
+    - name: YALI0A02310g
   - !!omap
     - id: YALI0A02453g
-    - name: Q0105
+    - name: YALI0A02453g
   - !!omap
     - id: YALI0A02541g
-    - name: Q0130
+    - name: YALI0A02541g
   - !!omap
     - id: YALI0A02915g
-    - name: Q0250
+    - name: YALI0A02915g
   - !!omap
     - id: YALI0A03135g
-    - name: Q0275
+    - name: YALI0A03135g
   - !!omap
     - id: YALI0A04675g
-    - name: YAL012W
+    - name: YALI0A04675g
   - !!omap
     - id: YALI0A04983g
-    - name: YAL022C
+    - name: YALI0A04983g
   - !!omap
     - id: YALI0A05379g
-    - name: YAL023C
+    - name: YALI0A05379g
   - !!omap
     - id: YALI0A06589g
-    - name: YOR360C
+    - name: YALI0A06589g
   - !!omap
     - id: YALI0A06655g
-    - name: YAL038W
+    - name: YALI0A06655g
   - !!omap
     - id: YALI0A06787g
-    - name: YAL044C
+    - name: YALI0A06787g
   - !!omap
     - id: YALI0A06974g
+    - name: YALI0A06974g
   - !!omap
     - id: YALI0A07579g
-    - name: YAL062W
+    - name: YALI0A07579g
   - !!omap
     - id: YALI0A08041g
-    - name: YAR015W
+    - name: YALI0A08041g
   - !!omap
     - id: YALI0A08217g
+    - name: YALI0A08217g
   - !!omap
     - id: YALI0A08668g
-    - name: YAR035W
+    - name: YALI0A08668g
   - !!omap
     - id: YALI0A08734g
+    - name: YALI0A08734g
   - !!omap
     - id: YALI0A09042g
-    - name: YOR374W
+    - name: YALI0A09042g
   - !!omap
     - id: YALI0A09427g
-    - name: YBL011W
+    - name: YALI0A09427g
   - !!omap
     - id: YALI0A09636g
-    - name: YBL013W
+    - name: YALI0A09636g
   - !!omap
     - id: YALI0A09856g
-    - name: YBL015W
+    - name: YALI0A09856g
   - !!omap
     - id: YALI0A09900g
-    - name: YBL033C
+    - name: YALI0A09900g
   - !!omap
     - id: YALI0A10032g
-    - name: YBL039C
+    - name: YALI0A10032g
   - !!omap
     - id: YALI0A10076g
-    - name: YBL042C
+    - name: YALI0A10076g
   - !!omap
     - id: YALI0A10310g
-    - name: YBL045C
+    - name: YALI0A10310g
   - !!omap
     - id: YALI0A10659g
-    - name: YOR375C
+    - name: YALI0A10659g
   - !!omap
     - id: YALI0A11143g
-    - name: YBL064C
+    - name: YALI0A11143g
   - !!omap
     - id: YALI0A12045g
-    - name: YBL068W
+    - name: YALI0A12045g
   - !!omap
     - id: YALI0A12353g
-    - name: YPL023C
+    - name: YALI0A12353g
   - !!omap
     - id: YALI0A13387g
-    - name: YBL076C
+    - name: YALI0A13387g
   - !!omap
     - id: YALI0A14157g
-    - name: YBL098W
+    - name: YALI0A14157g
   - !!omap
     - id: YALI0A14212g
-    - name: YBL099W
+    - name: YALI0A14212g
   - !!omap
     - id: YALI0A14498g
-    - name: YBR002C
+    - name: YALI0A14498g
   - !!omap
     - id: YALI0A14784g
-    - name: YBR003W
+    - name: YALI0A14784g
   - !!omap
     - id: YALI0A14806g
+    - name: YALI0A14806g
   - !!omap
     - id: YALI0A15125g
-    - name: YBR011C
+    - name: YALI0A15125g
   - !!omap
     - id: YALI0A15147g
-    - name: YBR018C
+    - name: YALI0A15147g
   - !!omap
     - id: YALI0A15576g
-    - name: YPL028W
+    - name: YALI0A15576g
   - !!omap
     - id: YALI0A15906g
-    - name: YPL036W
+    - name: YALI0A15906g
   - !!omap
     - id: YALI0A15950g
-    - name: YPL040C
+    - name: YALI0A15950g
   - !!omap
     - id: YALI0A15972g
-    - name: YBR019C
+    - name: YALI0A15972g
   - !!omap
     - id: YALI0A16379g
-    - name: YBR020W
+    - name: YALI0A16379g
   - !!omap
     - id: YALI0A16698g
+    - name: YALI0A16698g
   - !!omap
     - id: YALI0A16863g
-    - name: YBR021W
+    - name: YALI0A16863g
   - !!omap
     - id: YALI0A17468g
-    - name: YBR023C
+    - name: YALI0A17468g
   - !!omap
     - id: YALI0A18062g
-    - name: YBR026C
+    - name: YALI0A18062g
   - !!omap
     - id: YALI0A18183g
-    - name: YBR029C
+    - name: YALI0A18183g
   - !!omap
     - id: YALI0A19074g
-    - name: YBR034C
+    - name: YALI0A19074g
   - !!omap
     - id: YALI0A19096g
-    - name: YBR035C
+    - name: YALI0A19096g
   - !!omap
     - id: YALI0A19206g
-    - name: YBR038W
+    - name: YALI0A19206g
   - !!omap
     - id: YALI0A19558g
-    - name: YBR039W
+    - name: YALI0A19558g
   - !!omap
     - id: YALI0A20108g
-    - name: YBR041W
+    - name: YALI0A20108g
   - !!omap
     - id: YALI0A20295g
-    - name: YBR058C_A
+    - name: YALI0A20295g
   - !!omap
     - id: YALI0A20350g
+    - name: YALI0A20350g
   - !!omap
     - id: YALI0A20922g
-    - name: YBR097W
+    - name: YALI0A20922g
   - !!omap
     - id: YALI0A20988g
+    - name: YALI0A20988g
   - !!omap
     - id: YALI0A21153g
-    - name: YBR110W
+    - name: YALI0A21153g
   - !!omap
     - id: YALI0A21263g
-    - name: YBR115C
+    - name: YALI0A21263g
   - !!omap
     - id: YALI0A21307g
-    - name: YBR117C
+    - name: YALI0A21307g
   - !!omap
     - id: YALI0A21417g
-    - name: YBR126C
+    - name: YALI0A21417g
   - !!omap
     - id: YALI0B00220g
-    - name: YBR127C
+    - name: YALI0B00220g
   - !!omap
     - id: YALI0B00396g
-    - name: YBR132C
+    - name: YALI0B00396g
   - !!omap
     - id: YALI0B00572g
-    - name: YBR145W
+    - name: YALI0B00572g
   - !!omap
     - id: YALI0B00704g
-    - name: YPL061W
+    - name: YALI0B00704g
   - !!omap
     - id: YALI0B00726g
-    - name: YBR149W
+    - name: YALI0B00726g
   - !!omap
     - id: YALI0B00836g
-    - name: YBR153W
+    - name: YALI0B00836g
   - !!omap
     - id: YALI0B01364g
-    - name: YBR159W
+    - name: YALI0B01364g
   - !!omap
     - id: YALI0B01540g
-    - name: YBR166C
+    - name: YALI0B01540g
   - !!omap
     - id: YALI0B01672g
-    - name: YBR176W
+    - name: YALI0B01672g
   - !!omap
     - id: YALI0B01771g
+    - name: YALI0B01771g
   - !!omap
     - id: YALI0B01826g
-    - name: YBR183W
+    - name: YALI0B01826g
   - !!omap
     - id: YALI0B01848g
+    - name: YALI0B01848g
   - !!omap
     - id: YALI0B02178g
-    - name: YPL069C
+    - name: YALI0B02178g
   - !!omap
     - id: YALI0B02222g
-    - name: YBR192W
+    - name: YALI0B02222g
   - !!omap
     - id: YALI0B02376g
-    - name: YBR196C
+    - name: YALI0B02376g
   - !!omap
     - id: YALI0B02544g
+    - name: YALI0B02544g
   - !!omap
     - id: YALI0B02728g
-    - name: YBR199W
+    - name: YALI0B02728g
   - !!omap
     - id: YALI0B02852g
-    - name: YBR208C
+    - name: YALI0B02852g
   - !!omap
     - id: YALI0B02948g
-    - name: YBR213W
+    - name: YALI0B02948g
   - !!omap
     - id: YALI0B03344g
-    - name: YBR221C
+    - name: YALI0B03344g
   - !!omap
     - id: YALI0B03564g
-    - name: YBR248C
+    - name: YALI0B03564g
   - !!omap
     - id: YALI0B03630g
-    - name: YPL078C
+    - name: YALI0B03630g
   - !!omap
     - id: YALI0B03982g
-    - name: YBR249C
+    - name: YALI0B03982g
   - !!omap
     - id: YALI0B04180g
-    - name: YPL087W
+    - name: YALI0B04180g
   - !!omap
     - id: YALI0B04202g
-    - name: YBR252W
+    - name: YALI0B04202g
   - !!omap
     - id: YALI0B04312g
-    - name: YBR256C
+    - name: YALI0B04312g
   - !!omap
     - id: YALI0B05126g
-    - name: YBR263W
+    - name: YALI0B05126g
   - !!omap
     - id: YALI0B05368g
-    - name: YBR291C
+    - name: YALI0B05368g
   - !!omap
     - id: YALI0B05918g
-    - name: YBR294W
+    - name: YALI0B05918g
   - !!omap
     - id: YALI0B06006g
-    - name: YBR296C
+    - name: YALI0B06006g
   - !!omap
     - id: YALI0B06831g
-    - name: YBR298C
+    - name: YALI0B06831g
   - !!omap
     - id: YALI0B06941g
-    - name: YPL091W
+    - name: YALI0B06941g
   - !!omap
     - id: YALI0B07117g
-    - name: YPL092W
+    - name: YALI0B07117g
   - !!omap
     - id: YALI0B07227g
-    - name: YCL009C
+    - name: YALI0B07227g
   - !!omap
     - id: YALI0B07447g
-    - name: YPL097W
+    - name: YALI0B07447g
   - !!omap
     - id: YALI0B07667g
-    - name: YPL104W
+    - name: YALI0B07667g
   - !!omap
     - id: YALI0B08052g
-    - name: YCL035C
+    - name: YALI0B08052g
   - !!omap
     - id: YALI0B08140g
-    - name: YCL052C
+    - name: YALI0B08140g
   - !!omap
     - id: YALI0B08184g
-    - name: YCR024C_A
+    - name: YALI0B08184g
   - !!omap
     - id: YALI0B08536g
-    - name: YCR083W
+    - name: YALI0B08536g
   - !!omap
     - id: YALI0B08943g
-    - name: YDL004W
+    - name: YALI0B08943g
   - !!omap
     - id: YALI0B08965g
-    - name: YDL015C
+    - name: YALI0B08965g
   - !!omap
     - id: YALI0B09361g
+    - name: YALI0B09361g
   - !!omap
     - id: YALI0B09537g
-    - name: YDL022W
+    - name: YALI0B09537g
   - !!omap
     - id: YALI0B09625g
-    - name: YDL042C
+    - name: YALI0B09625g
   - !!omap
     - id: YALI0B09647g
-    - name: YDL045C
+    - name: YALI0B09647g
   - !!omap
     - id: YALI0B09845g
-    - name: YDL052C
+    - name: YALI0B09845g
   - !!omap
     - id: YALI0B10340g
-    - name: YDL055C
+    - name: YALI0B10340g
   - !!omap
     - id: YALI0B10406g
+    - name: YALI0B10406g
   - !!omap
     - id: YALI0B10736g
-    - name: YDL067C
+    - name: YALI0B10736g
   - !!omap
     - id: YALI0B11044g
-    - name: YDL085W
+    - name: YALI0B11044g
   - !!omap
     - id: YALI0B11154g
-    - name: YDL090C
+    - name: YALI0B11154g
   - !!omap
     - id: YALI0B11286g
-    - name: YDL093W
+    - name: YALI0B11286g
   - !!omap
     - id: YALI0B11330g
-    - name: YPL110C
+    - name: YALI0B11330g
   - !!omap
     - id: YALI0B12078g
-    - name: YDL095W
+    - name: YALI0B12078g
   - !!omap
     - id: YALI0B12980g
+    - name: YALI0B12980g
   - !!omap
     - id: YALI0B13398g
-    - name: YDL103C
+    - name: YALI0B13398g
   - !!omap
     - id: YALI0B13420g
-    - name: YDL131W
+    - name: YALI0B13420g
   - !!omap
     - id: YALI0B13464g
-    - name: YDL141W
+    - name: YALI0B13464g
   - !!omap
     - id: YALI0B13552g
-    - name: YDL142C
+    - name: YALI0B13552g
   - !!omap
     - id: YALI0B13816g
+    - name: YALI0B13816g
   - !!omap
     - id: YALI0B13970g
-    - name: YDL168W
+    - name: YALI0B13970g
   - !!omap
     - id: YALI0B14014g
+    - name: YALI0B14014g
   - !!omap
     - id: YALI0B14289g
+    - name: YALI0B14289g
   - !!omap
     - id: YALI0B14399g
-    - name: YDL171C
+    - name: YALI0B14399g
   - !!omap
     - id: YALI0B14465g
-    - name: YDL174C
+    - name: YALI0B14465g
   - !!omap
     - id: YALI0B14509g
-    - name: YDL178W
+    - name: YALI0B14509g
   - !!omap
     - id: YALI0B14531g
+    - name: YALI0B14531g
   - !!omap
     - id: YALI0B14619g
-    - name: YPL111W
+    - name: YALI0B14619g
   - !!omap
     - id: YALI0B14729g
-    - name: YDL182W
+    - name: YALI0B14729g
   - !!omap
     - id: YALI0B14839g
-    - name: YDL185W
+    - name: YALI0B14839g
   - !!omap
     - id: YALI0B14927g
+    - name: YALI0B14927g
   - !!omap
     - id: YALI0B15059g
-    - name: YDL198C
+    - name: YALI0B15059g
   - !!omap
     - id: YALI0B15125g
-    - name: YDL205C
+    - name: YALI0B15125g
   - !!omap
     - id: YALI0B15304g
-    - name: YDL210W
+    - name: YALI0B15304g
   - !!omap
     - id: YALI0B15444g
-    - name: YDL215C
+    - name: YALI0B15444g
   - !!omap
     - id: YALI0B15598g
-    - name: YDL238C
+    - name: YALI0B15598g
   - !!omap
     - id: YALI0B15664g
-    - name: YDL245C
+    - name: YALI0B15664g
   - !!omap
     - id: YALI0B15884g
-    - name: YDL247W
+    - name: YALI0B15884g
   - !!omap
     - id: YALI0B16038g
-    - name: YDR001C
+    - name: YALI0B16038g
   - !!omap
     - id: YALI0B16104g
-    - name: YDR017C
+    - name: YALI0B16104g
   - !!omap
     - id: YALI0B16126g
-    - name: YDR019C
+    - name: YALI0B16126g
   - !!omap
     - id: YALI0B16192g
+    - name: YALI0B16192g
   - !!omap
     - id: YALI0B16214g
+    - name: YALI0B16214g
   - !!omap
     - id: YALI0B16324g
-    - name: YDR023W
+    - name: YALI0B16324g
   - !!omap
     - id: YALI0B16522g
-    - name: YDR035W
+    - name: YALI0B16522g
   - !!omap
     - id: YALI0B17204g
-    - name: YDR037W
+    - name: YALI0B17204g
   - !!omap
     - id: YALI0B17336g
-    - name: YDR044W
+    - name: YALI0B17336g
   - !!omap
     - id: YALI0B17402g
-    - name: YDR047W
+    - name: YALI0B17402g
   - !!omap
     - id: YALI0B17644g
-    - name: YDR050C
+    - name: YALI0B17644g
   - !!omap
     - id: YALI0B17666g
-    - name: YDR058C
+    - name: YALI0B17666g
   - !!omap
     - id: YALI0B17688g
+    - name: YALI0B17688g
   - !!omap
     - id: YALI0B17864g
-    - name: YDR062W
+    - name: YALI0B17864g
   - !!omap
     - id: YALI0B17930g
-    - name: YDR074W
+    - name: YALI0B17930g
   - !!omap
     - id: YALI0B17996g
-    - name: YDR098C
+    - name: YALI0B17996g
   - !!omap
     - id: YALI0B18348g
-    - name: YDR127W
+    - name: YALI0B18348g
   - !!omap
     - id: YALI0B18759g
-    - name: YDR135C
+    - name: YALI0B18759g
   - !!omap
     - id: YALI0B18898g
-    - name: YDR147W
+    - name: YALI0B18898g
   - !!omap
     - id: YALI0B19338g
-    - name: YDR148C
+    - name: YALI0B19338g
   - !!omap
     - id: YALI0B19360g
+    - name: YALI0B19360g
   - !!omap
     - id: YALI0B19382g
-    - name: YDR158W
+    - name: YALI0B19382g
   - !!omap
     - id: YALI0B19492g
-    - name: YDR173C
+    - name: YALI0B19492g
   - !!omap
     - id: YALI0B19800g
-    - name: YDR178W
+    - name: YALI0B19800g
   - !!omap
     - id: YALI0B19976g
-    - name: YPL117C
+    - name: YALI0B19976g
   - !!omap
     - id: YALI0B19998g
-    - name: YDR191W
+    - name: YALI0B19998g
   - !!omap
     - id: YALI0B20020g
-    - name: YDR196C
+    - name: YALI0B20020g
   - !!omap
     - id: YALI0B20196g
-    - name: YDR204W
+    - name: YALI0B20196g
   - !!omap
     - id: YALI0B20438g
-    - name: YDR232W
+    - name: YALI0B20438g
   - !!omap
     - id: YALI0B21142g
-    - name: YDR234W
+    - name: YALI0B21142g
   - !!omap
     - id: YALI0B21428g
-    - name: YDR236C
+    - name: YALI0B21428g
   - !!omap
     - id: YALI0B21780g
-    - name: YPL134C
+    - name: YALI0B21780g
   - !!omap
     - id: YALI0B21846g
+    - name: YALI0B21846g
   - !!omap
     - id: YALI0B22066g
-    - name: YDR268W
+    - name: YALI0B22066g
   - !!omap
     - id: YALI0B22308g
-    - name: YPL147W
+    - name: YALI0B22308g
   - !!omap
     - id: YALI0B22506g
-    - name: YPL160W
+    - name: YALI0B22506g
   - !!omap
     - id: YALI0B22550g
+    - name: YALI0B22550g
   - !!omap
     - id: YALI0B22682g
-    - name: YDR272W
+    - name: YALI0B22682g
   - !!omap
     - id: YALI0B22902g
-    - name: YDR287W
+    - name: YALI0B22902g
   - !!omap
     - id: YALI0B22924g
+    - name: YALI0B22924g
   - !!omap
     - id: YALI0B23188g
-    - name: YDR294C
+    - name: YALI0B23188g
   - !!omap
     - id: YALI0B23298g
-    - name: YDR297W
+    - name: YALI0B23298g
   - !!omap
     - id: YALI0B23430g
+    - name: YALI0B23430g
   - !!omap
     - id: YALI0C00209g
-    - name: YDR298C
+    - name: YALI0C00209g
   - !!omap
     - id: YALI0C00253g
-    - name: YDR300C
+    - name: YALI0C00253g
   - !!omap
     - id: YALI0C00407g
+    - name: YALI0C00407g
   - !!omap
     - id: YALI0C00451g
-    - name: YDR302W
+    - name: YALI0C00451g
   - !!omap
     - id: YALI0C00627g
-    - name: YPL172C
+    - name: YALI0C00627g
   - !!omap
     - id: YALI0C00759g
-    - name: YDR322C_A
+    - name: YALI0C00759g
   - !!omap
     - id: YALI0C01111g
-    - name: YDR341C
+    - name: YALI0C01111g
   - !!omap
     - id: YALI0C01411g
-    - name: YPL188W
+    - name: YALI0C01411g
   - !!omap
     - id: YALI0C01716g
-    - name: YDR342C
+    - name: YALI0C01716g
   - !!omap
     - id: YALI0C02431g
-    - name: YDR343C
+    - name: YALI0C02431g
   - !!omap
     - id: YALI0C02783g
+    - name: YALI0C02783g
   - !!omap
     - id: YALI0C03003g
-    - name: YDR345C
+    - name: YALI0C03003g
   - !!omap
     - id: YALI0C03025g
-    - name: YDR353W
+    - name: YALI0C03025g
   - !!omap
     - id: YALI0C03179g
-    - name: YDR354W
+    - name: YALI0C03179g
   - !!omap
     - id: YALI0C03223g
-    - name: YDR367W
+    - name: YALI0C03223g
   - !!omap
     - id: YALI0C03674g
-    - name: YDR373W
+    - name: YALI0C03674g
   - !!omap
     - id: YALI0C04092g
+    - name: YALI0C04092g
   - !!omap
     - id: YALI0C04180g
-    - name: YDR376W
+    - name: YALI0C04180g
   - !!omap
     - id: YALI0C04433g
-    - name: YDR377W
+    - name: YALI0C04433g
   - !!omap
     - id: YALI0C05170g
-    - name: YPL189W
+    - name: YALI0C05170g
   - !!omap
     - id: YALI0C05258g
-    - name: YDR380W
+    - name: YALI0C05258g
   - !!omap
     - id: YALI0C05467g
-    - name: YDR399W
+    - name: YALI0C05467g
   - !!omap
     - id: YALI0C05709g
+    - name: YALI0C05709g
   - !!omap
     - id: YALI0C05753g
-    - name: YDR400W
+    - name: YALI0C05753g
   - !!omap
     - id: YALI0C05951g
-    - name: YDR408C
+    - name: YALI0C05951g
   - !!omap
     - id: YALI0C06083g
-    - name: YDR428C
+    - name: YALI0C06083g
   - !!omap
     - id: YALI0C06281g
-    - name: YDR453C
+    - name: YALI0C06281g
   - !!omap
     - id: YALI0C06303g
-    - name: YDR454C
+    - name: YALI0C06303g
   - !!omap
     - id: YALI0C06369g
-    - name: YDR481C
+    - name: YALI0C06369g
   - !!omap
     - id: YALI0C06446g
-    - name: YDR487C
+    - name: YALI0C06446g
   - !!omap
     - id: YALI0C06490g
-    - name: YDR497C
+    - name: YALI0C06490g
   - !!omap
     - id: YALI0C06732g
-    - name: YDR502C
+    - name: YALI0C06732g
   - !!omap
     - id: YALI0C06776g
-    - name: YDR513W
+    - name: YALI0C06776g
   - !!omap
     - id: YALI0C06930g
+    - name: YALI0C06930g
   - !!omap
     - id: YALI0C06952g
-    - name: YDR529C
+    - name: YALI0C06952g
   - !!omap
     - id: YALI0C06996g
-    - name: YPL206C
+    - name: YALI0C06996g
   - !!omap
     - id: YALI0C07128g
-    - name: YDR530C
+    - name: YALI0C07128g
   - !!omap
     - id: YALI0C07414g
-    - name: YDR531W
+    - name: YALI0C07414g
   - !!omap
     - id: YALI0C07678g
-    - name: YEL006W
+    - name: YALI0C07678g
   - !!omap
     - id: YALI0C08074g
-    - name: YPL212C
+    - name: YALI0C08074g
   - !!omap
     - id: YALI0C08569g
+    - name: YALI0C08569g
   - !!omap
     - id: YALI0C08811g
+    - name: YALI0C08811g
   - !!omap
     - id: YALI0C09119g
-    - name: YEL017C_A
+    - name: YALI0C09119g
   - !!omap
     - id: YALI0C09636g
-    - name: YPL214C
+    - name: YALI0C09636g
   - !!omap
     - id: YALI0C09889g
-    - name: YEL024W
+    - name: YALI0C09889g
   - !!omap
     - id: YALI0C10780g
-    - name: YEL027W
+    - name: YALI0C10780g
   - !!omap
     - id: YALI0C10901g
-    - name: YEL029C
+    - name: YALI0C10901g
   - !!omap
     - id: YALI0C10989g
-    - name: YEL038W
+    - name: YALI0C10989g
   - !!omap
     - id: YALI0C11363g
-    - name: YEL039C
+    - name: YALI0C11363g
   - !!omap
     - id: YALI0C11407g
-    - name: YEL041W
+    - name: YALI0C11407g
   - !!omap
     - id: YALI0C11803g
-    - name: YPL231W
+    - name: YALI0C11803g
   - !!omap
     - id: YALI0C11880g
-    - name: YEL042W
+    - name: YALI0C11880g
   - !!omap
     - id: YALI0C12210g
+    - name: YALI0C12210g
   - !!omap
     - id: YALI0C12749g
-    - name: YEL046C
+    - name: YALI0C12749g
   - !!omap
     - id: YALI0C12771g
-    - name: YEL051W
+    - name: YALI0C12771g
   - !!omap
     - id: YALI0C13090g
-    - name: YEL058W
+    - name: YALI0C13090g
   - !!omap
     - id: YALI0C13354g
-    - name: YEL063C
+    - name: YALI0C13354g
   - !!omap
     - id: YALI0C13508g
-    - name: YEL069C
+    - name: YALI0C13508g
   - !!omap
     - id: YALI0C13574g
-    - name: YPL234C
+    - name: YALI0C13574g
   - !!omap
     - id: YALI0C14036g
-    - name: YEL071W
+    - name: YALI0C14036g
   - !!omap
     - id: YALI0C14190g
-    - name: YER003C
+    - name: YALI0C14190g
   - !!omap
     - id: YALI0C14344g
-    - name: YPL244C
+    - name: YALI0C14344g
   - !!omap
     - id: YALI0C14498g
-    - name: YER005W
+    - name: YALI0C14498g
   - !!omap
     - id: YALI0C14520g
-    - name: YER014W
+    - name: YALI0C14520g
   - !!omap
     - id: YALI0C15224g
-    - name: YER019W
+    - name: YALI0C15224g
   - !!omap
     - id: YALI0C15488g
-    - name: YPL252C
+    - name: YALI0C15488g
   - !!omap
     - id: YALI0C15554g
-    - name: YER023W
+    - name: YALI0C15554g
   - !!omap
     - id: YALI0C15807g
-    - name: YER026C
+    - name: YALI0C15807g
   - !!omap
     - id: YALI0C16434g
-    - name: YER037W
+    - name: YALI0C16434g
   - !!omap
     - id: YALI0C16753g
+    - name: YALI0C16753g
   - !!omap
     - id: YALI0C16885g
-    - name: YER043C
+    - name: YALI0C16885g
   - !!omap
     - id: YALI0C16907g
-    - name: YPL258C
+    - name: YALI0C16907g
   - !!omap
     - id: YALI0C16995g
-    - name: YER052C
+    - name: YALI0C16995g
   - !!omap
     - id: YALI0C17237g
-    - name: YER053C
+    - name: YALI0C17237g
   - !!omap
     - id: YALI0C17281g
-    - name: YPL262W
+    - name: YALI0C17281g
   - !!omap
     - id: YALI0C17303g
-    - name: YPL265W
+    - name: YALI0C17303g
   - !!omap
     - id: YALI0C17831g
-    - name: YER056C
+    - name: YALI0C17831g
   - !!omap
     - id: YALI0C17941g
-    - name: YER060W
+    - name: YALI0C17941g
   - !!omap
     - id: YALI0C18205g
-    - name: YER060W_A
+    - name: YALI0C18205g
   - !!omap
     - id: YALI0C18425g
-    - name: YER061C
+    - name: YALI0C18425g
   - !!omap
     - id: YALI0C18535g
-    - name: YER065C
+    - name: YALI0C18535g
   - !!omap
     - id: YALI0C18755g
-    - name: YER069W
+    - name: YALI0C18755g
   - !!omap
     - id: YALI0C18799g
-    - name: YER070W
+    - name: YALI0C18799g
   - !!omap
     - id: YALI0C19085g
-    - name: YPL268W
+    - name: YALI0C19085g
   - !!omap
     - id: YALI0C19195g
-    - name: YER081W
+    - name: YALI0C19195g
   - !!omap
     - id: YALI0C19624g
-    - name: YER086W
+    - name: YALI0C19624g
   - !!omap
     - id: YALI0C19712g
-    - name: YER090W
+    - name: YALI0C19712g
   - !!omap
     - id: YALI0C19866g
+    - name: YALI0C19866g
   - !!omap
     - id: YALI0C19965g
-    - name: YER091C
+    - name: YALI0C19965g
   - !!omap
     - id: YALI0C20251g
-    - name: YER099C
+    - name: YALI0C20251g
   - !!omap
     - id: YALI0C20265g
+    - name: YALI0C20265g
   - !!omap
     - id: YALI0C20405g
-    - name: YER119C
+    - name: YALI0C20405g
   - !!omap
     - id: YALI0C20427g
+    - name: YALI0C20427g
   - !!omap
     - id: YALI0C20669g
+    - name: YALI0C20669g
   - !!omap
     - id: YALI0C21065g
-    - name: YER152C
+    - name: YALI0C21065g
   - !!omap
     - id: YALI0C21406g
-    - name: YPL271W
+    - name: YALI0C21406g
   - !!omap
     - id: YALI0C22088g
+    - name: YALI0C22088g
   - !!omap
     - id: YALI0C22165g
-    - name: YER170W
+    - name: YALI0C22165g
   - !!omap
     - id: YALI0C22616g
+    - name: YALI0C22616g
   - !!omap
     - id: YALI0C23034g
-    - name: YER174C
+    - name: YALI0C23034g
   - !!omap
     - id: YALI0C23210g
-    - name: YER178W
+    - name: YALI0C23210g
   - !!omap
     - id: YALI0C23298g
-    - name: YPL273W
+    - name: YALI0C23298g
   - !!omap
     - id: YALI0C23342g
-    - name: YER183C
+    - name: YALI0C23342g
   - !!omap
     - id: YALI0C23408g
-    - name: YFL022C
+    - name: YALI0C23408g
   - !!omap
     - id: YALI0C23617g
-    - name: YPR001W
+    - name: YALI0C23617g
   - !!omap
     - id: YALI0C23793g
-    - name: YFR015C
+    - name: YALI0C23793g
   - !!omap
     - id: YALI0C23859g
+    - name: YALI0C23859g
   - !!omap
     - id: YALI0C23969g
-    - name: YFR030W
+    - name: YALI0C23969g
   - !!omap
     - id: YALI0C24101g
-    - name: YPR002W
+    - name: YALI0C24101g
   - !!omap
     - id: YALI0C24354g
-    - name: YFR033C
+    - name: YALI0C24354g
   - !!omap
     - id: YALI0D00495g
-    - name: YGL001C
+    - name: YALI0D00495g
   - !!omap
     - id: YALI0D00583g
-    - name: YGL008C
+    - name: YALI0D00583g
   - !!omap
     - id: YALI0D00605g
-    - name: YGL009C
+    - name: YALI0D00605g
   - !!omap
     - id: YALI0D01089g
-    - name: YGL012W
+    - name: YALI0D01089g
   - !!omap
     - id: YALI0D01265g
-    - name: YGL026C
+    - name: YALI0D01265g
   - !!omap
     - id: YALI0D01309g
-    - name: YGL037C
+    - name: YALI0D01309g
   - !!omap
     - id: YALI0D01694g
-    - name: YGL040C
+    - name: YALI0D01694g
   - !!omap
     - id: YALI0D02167g
+    - name: YALI0D02167g
   - !!omap
     - id: YALI0D02321g
+    - name: YALI0D02321g
   - !!omap
     - id: YALI0D02497g
-    - name: YGL055W
+    - name: YALI0D02497g
   - !!omap
     - id: YALI0D02629g
-    - name: YGL067W
+    - name: YALI0D02629g
   - !!omap
     - id: YALI0D03069g
-    - name: YGL077C
+    - name: YALI0D03069g
   - !!omap
     - id: YALI0D03135g
-    - name: YGL080W
+    - name: YALI0D03135g
   - !!omap
     - id: YALI0D03179g
-    - name: YPR006C
+    - name: YALI0D03179g
   - !!omap
     - id: YALI0D03333g
-    - name: YPR020W
+    - name: YALI0D03333g
   - !!omap
     - id: YALI0D03480g
-    - name: YGL084C
+    - name: YALI0D03480g
   - !!omap
     - id: YALI0D03619g
-    - name: YGL119W
+    - name: YALI0D03619g
   - !!omap
     - id: YALI0D04092g
-    - name: YPR021C
+    - name: YALI0D04092g
   - !!omap
     - id: YALI0D04202g
-    - name: YGL125W
+    - name: YALI0D04202g
   - !!omap
     - id: YALI0D04246g
-    - name: YGL142C
+    - name: YALI0D04246g
   - !!omap
     - id: YALI0D04378g
-    - name: YGL148W
+    - name: YALI0D04378g
   - !!omap
     - id: YALI0D04422g
-    - name: YPR033C
+    - name: YALI0D04422g
   - !!omap
     - id: YALI0D04741g
-    - name: YGL154C
+    - name: YALI0D04741g
   - !!omap
     - id: YALI0D05621g
-    - name: YGL184C
+    - name: YALI0D05621g
   - !!omap
     - id: YALI0D05797g
-    - name: YGL186C
+    - name: YALI0D05797g
   - !!omap
     - id: YALI0D05819g
-    - name: YPR036W
+    - name: YALI0D05819g
   - !!omap
     - id: YALI0D05929g
-    - name: YGL187C
+    - name: YALI0D05929g
   - !!omap
     - id: YALI0D05995g
-    - name: YPR047W
+    - name: YALI0D05995g
   - !!omap
     - id: YALI0D06281g
+    - name: YALI0D06281g
   - !!omap
     - id: YALI0D06303g
-    - name: YGL191W
+    - name: YALI0D06303g
   - !!omap
     - id: YALI0D06325g
-    - name: YGL202W
+    - name: YALI0D06325g
   - !!omap
     - id: YALI0D06413g
-    - name: YPR060C
+    - name: YALI0D06413g
   - !!omap
     - id: YALI0D06501g
-    - name: YGL205W
+    - name: YALI0D06501g
   - !!omap
     - id: YALI0D06798g
+    - name: YALI0D06798g
   - !!omap
     - id: YALI0D06930g
-    - name: YGL224C
+    - name: YALI0D06930g
   - !!omap
     - id: YALI0D06974g
-    - name: YGL234W
+    - name: YALI0D06974g
   - !!omap
     - id: YALI0D07062g
-    - name: YGL245W
+    - name: YALI0D07062g
   - !!omap
     - id: YALI0D07370g
-    - name: YGL248W
+    - name: YALI0D07370g
   - !!omap
     - id: YALI0D07392g
-    - name: YGR007W
+    - name: YALI0D07392g
   - !!omap
     - id: YALI0D07634g
-    - name: YPR062W
+    - name: YALI0D07634g
   - !!omap
     - id: YALI0D07942g
-    - name: YPR069C
+    - name: YALI0D07942g
   - !!omap
     - id: YALI0D08206g
+    - name: YALI0D08206g
   - !!omap
     - id: YALI0D08228g
-    - name: YPR074C
+    - name: YALI0D08228g
   - !!omap
     - id: YALI0D08382g
-    - name: YPR113W
+    - name: YALI0D08382g
   - !!omap
     - id: YALI0D08514g
-    - name: YGR010W
+    - name: YALI0D08514g
   - !!omap
     - id: YALI0D08690g
+    - name: YALI0D08690g
   - !!omap
     - id: YALI0D08778g
-    - name: YGR020C
+    - name: YALI0D08778g
   - !!omap
     - id: YALI0D09229g
-    - name: YGR032W
+    - name: YALI0D09229g
   - !!omap
     - id: YALI0D09273g
-    - name: YGR055W
+    - name: YALI0D09273g
   - !!omap
     - id: YALI0D09361g
-    - name: YGR061C
+    - name: YALI0D09361g
   - !!omap
     - id: YALI0D09867g
-    - name: YGR087C
+    - name: YALI0D09867g
   - !!omap
     - id: YALI0D10043g
+    - name: YALI0D10043g
   - !!omap
     - id: YALI0D10131g
-    - name: YGR088W
+    - name: YALI0D10131g
   - !!omap
     - id: YALI0D10593g
-    - name: YGR094W
+    - name: YALI0D10593g
   - !!omap
     - id: YALI0D11110g
-    - name: YGR096W
+    - name: YALI0D11110g
   - !!omap
     - id: YALI0D11176g
-    - name: YGR110W
+    - name: YALI0D11176g
   - !!omap
     - id: YALI0D11374g
-    - name: YGR121C
+    - name: YALI0D11374g
   - !!omap
     - id: YALI0D11616g
-    - name: YGR124W
+    - name: YALI0D11616g
   - !!omap
     - id: YALI0D11704g
-    - name: YGR138C
+    - name: YALI0D11704g
   - !!omap
     - id: YALI0D11814g
-    - name: YGR143W
+    - name: YALI0D11814g
   - !!omap
     - id: YALI0D11836g
-    - name: YGR155W
+    - name: YALI0D11836g
   - !!omap
     - id: YALI0D12100g
+    - name: YALI0D12100g
   - !!omap
     - id: YALI0D12386g
-    - name: YGR157W
+    - name: YALI0D12386g
   - !!omap
     - id: YALI0D12400g
-    - name: YPR128C
+    - name: YALI0D12400g
   - !!omap
     - id: YALI0D12573g
+    - name: YALI0D12573g
   - !!omap
     - id: YALI0D12584g
-    - name: YGR170W
+    - name: YALI0D12584g
   - !!omap
     - id: YALI0D13112g
-    - name: YPR138C
+    - name: YALI0D13112g
   - !!omap
     - id: YALI0D13596g
-    - name: YGR171C
+    - name: YALI0D13596g
   - !!omap
     - id: YALI0D13970g
-    - name: YPR140W
+    - name: YALI0D13970g
   - !!omap
     - id: YALI0D14322g
-    - name: YGR175C
+    - name: YALI0D14322g
   - !!omap
     - id: YALI0D14476g
-    - name: YGR183C
+    - name: YALI0D14476g
   - !!omap
     - id: YALI0D14762g
-    - name: YGR185C
+    - name: YALI0D14762g
   - !!omap
     - id: YALI0D14850g
+    - name: YALI0D14850g
   - !!omap
     - id: YALI0D14894g
-    - name: YGR192C
+    - name: YALI0D14894g
   - !!omap
     - id: YALI0D15268g
-    - name: YGR193C
+    - name: YALI0D15268g
   - !!omap
     - id: YALI0D15400g
-    - name: YGR194C
+    - name: YALI0D15400g
   - !!omap
     - id: YALI0D15422g
-    - name: YGR202C
+    - name: YALI0D15422g
   - !!omap
     - id: YALI0D15598g
-    - name: YGR208W
+    - name: YALI0D15598g
   - !!omap
     - id: YALI0D16269g
-    - name: YGR209C
+    - name: YALI0D16269g
   - !!omap
     - id: YALI0D16357g
-    - name: YGR240C
+    - name: YALI0D16357g
   - !!omap
     - id: YALI0D16379g
+    - name: YALI0D16379g
   - !!omap
     - id: YALI0D16643g
-    - name: YPR145W
+    - name: YALI0D16643g
   - !!omap
     - id: YALI0D16753g
-    - name: YGR243W
+    - name: YALI0D16753g
   - !!omap
     - id: YALI0D16797g
-    - name: YGR244C
+    - name: YALI0D16797g
   - !!omap
     - id: YALI0D17050g
-    - name: YGR247W
+    - name: YALI0D17050g
   - !!omap
     - id: YALI0D17072g
-    - name: YGR248W
+    - name: YALI0D17072g
   - !!omap
     - id: YALI0D17402g
-    - name: YGR254W
+    - name: YALI0D17402g
   - !!omap
     - id: YALI0D17490g
-    - name: YGR255C
+    - name: YALI0D17490g
   - !!omap
     - id: YALI0D17534g
-    - name: YGR256W
+    - name: YALI0D17534g
   - !!omap
     - id: YALI0D17556g
-    - name: YGR264C
+    - name: YALI0D17556g
   - !!omap
     - id: YALI0D17688g
-    - name: YGR267C
+    - name: YALI0D17688g
   - !!omap
     - id: YALI0D17842g
-    - name: YGR277C
+    - name: YALI0D17842g
   - !!omap
     - id: YALI0D17864g
-    - name: YGR282C
+    - name: YALI0D17864g
   - !!omap
     - id: YALI0D17930g
-    - name: YGR286C
+    - name: YALI0D17930g
   - !!omap
     - id: YALI0D18271g
-    - name: YGR289C
+    - name: YALI0D18271g
   - !!omap
     - id: YALI0D18337g
-    - name: YHL003C
+    - name: YALI0D18337g
   - !!omap
     - id: YALI0D18381g
+    - name: YALI0D18381g
   - !!omap
     - id: YALI0D18403g
-    - name: YHL011C
+    - name: YALI0D18403g
   - !!omap
     - id: YALI0D18458g
-    - name: YHL016C
+    - name: YALI0D18458g
   - !!omap
     - id: YALI0D18568g
+    - name: YALI0D18568g
   - !!omap
     - id: YALI0D18920g
+    - name: YALI0D18920g
   - !!omap
     - id: YALI0D19140g
-    - name: YHL032C
+    - name: YALI0D19140g
   - !!omap
     - id: YALI0D19184g
+    - name: YALI0D19184g
   - !!omap
     - id: YALI0D19206g
-    - name: YHR001W_A
+    - name: YALI0D19206g
   - !!omap
     - id: YALI0D19426g
-    - name: YHR002W
+    - name: YALI0D19426g
   - !!omap
     - id: YALI0D19756g
+    - name: YALI0D19756g
   - !!omap
     - id: YALI0D20108g
-    - name: YPR156C
+    - name: YALI0D20108g
   - !!omap
     - id: YALI0D20152g
+    - name: YALI0D20152g
   - !!omap
     - id: YALI0D20262g
-    - name: YHR007C
+    - name: YALI0D20262g
   - !!omap
     - id: YALI0D20768g
-    - name: YPR159W
+    - name: YALI0D20768g
   - !!omap
     - id: YALI0D20878g
-    - name: YHR011W
+    - name: YALI0D20878g
   - !!omap
     - id: YALI0D21530g
-    - name: YHR018C
+    - name: YALI0D21530g
   - !!omap
     - id: YALI0D21604g
-    - name: YHR019C
+    - name: YALI0D21604g
   - !!omap
     - id: YALI0D22022g
-    - name: YHR020W
+    - name: YALI0D22022g
   - !!omap
     - id: YALI0D22264g
-    - name: YHR025W
+    - name: YALI0D22264g
   - !!omap
     - id: YALI0D22484g
-    - name: YHR026W
+    - name: YALI0D22484g
   - !!omap
     - id: YALI0D22847g
-    - name: YHR037W
+    - name: YALI0D22847g
   - !!omap
     - id: YALI0D22891g
-    - name: YHR039C_A
+    - name: YALI0D22891g
   - !!omap
     - id: YALI0D23331g
-    - name: YHR042W
+    - name: YALI0D23331g
   - !!omap
     - id: YALI0D23397g
-    - name: YHR046C
+    - name: YALI0D23397g
   - !!omap
     - id: YALI0D23639g
-    - name: YHR051W
+    - name: YALI0D23639g
   - !!omap
     - id: YALI0D23683g
-    - name: YHR067W
+    - name: YALI0D23683g
   - !!omap
     - id: YALI0D23815g
+    - name: YALI0D23815g
   - !!omap
     - id: YALI0D24409g
-    - name: YHR068W
+    - name: YALI0D24409g
   - !!omap
     - id: YALI0D24431g
+    - name: YALI0D24431g
   - !!omap
     - id: YALI0D24607g
-    - name: YPR160W
+    - name: YALI0D24607g
   - !!omap
     - id: YALI0D24629g
+    - name: YALI0D24629g
   - !!omap
     - id: YALI0D24750g
-    - name: YHR074W
+    - name: YALI0D24750g
   - !!omap
     - id: YALI0D25168g
-    - name: YHR091C
+    - name: YALI0D25168g
   - !!omap
     - id: YALI0D25234g
-    - name: YHR092C
+    - name: YALI0D25234g
   - !!omap
     - id: YALI0D25476g
-    - name: YHR094C
+    - name: YALI0D25476g
   - !!omap
     - id: YALI0D25564g
-    - name: YHR096C
+    - name: YALI0D25564g
   - !!omap
     - id: YALI0D25630g
-    - name: YHR100C
+    - name: YALI0D25630g
   - !!omap
     - id: YALI0D25828g
+    - name: YALI0D25828g
   - !!omap
     - id: YALI0D25938g
-    - name: YPR184W
+    - name: YALI0D25938g
   - !!omap
     - id: YALI0D26147g
-    - name: YHR106W
+    - name: YALI0D26147g
   - !!omap
     - id: YALI0D26367g
-    - name: YHR123W
+    - name: YALI0D26367g
   - !!omap
     - id: YALI0D27016g
-    - name: YHR128W
+    - name: YALI0D27016g
   - !!omap
     - id: YALI0D27126g
-    - name: YHR137W
+    - name: YALI0D27126g
   - !!omap
     - id: YALI0D27170g
-    - name: YHR144C
+    - name: YALI0D27170g
   - !!omap
     - id: YALI0D27654g
+    - name: YALI0D27654g
   - !!omap
     - id: YALI0E00242g
-    - name: YHR162W
+    - name: YALI0E00242g
   - !!omap
     - id: YALI0E00264g
-    - name: YHR174W
+    - name: YALI0E00264g
   - !!omap
     - id: YALI0E00418g
-    - name: YHR183W
+    - name: YALI0E00418g
   - !!omap
     - id: YALI0E00528g
-    - name: YHR190W
+    - name: YALI0E00528g
   - !!omap
     - id: YALI0E00638g
-    - name: YHR208W
+    - name: YALI0E00638g
   - !!omap
     - id: YALI0E00836g
-    - name: YHR216W
+    - name: YALI0E00836g
   - !!omap
     - id: YALI0E01056g
-    - name: YPR191W
+    - name: YALI0E01056g
   - !!omap
     - id: YALI0E01254g
-    - name: YIL006W
+    - name: YALI0E01254g
   - !!omap
     - id: YALI0E01892g
-    - name: YIL009W
+    - name: YALI0E01892g
   - !!omap
     - id: YALI0E02090g
-    - name: YIL010W
+    - name: YALI0E02090g
   - !!omap
     - id: YALI0E02156g
-    - name: YAL038W
+    - name: YALI0E02156g
   - !!omap
     - id: YALI0E02244g
-    - name: YIL020C
+    - name: YALI0E02244g
   - !!omap
     - id: YALI0E02288g
-    - name: YIL066C
+    - name: YALI0E02288g
   - !!omap
     - id: YALI0E02310g
-    - name: YIL074C
+    - name: YALI0E02310g
   - !!omap
     - id: YALI0E02398g
+    - name: YALI0E02398g
   - !!omap
     - id: YALI0E02684g
-    - name: YIL078W
+    - name: YALI0E02684g
   - !!omap
     - id: YALI0E02728g
-    - name: YIL094C
+    - name: YALI0E02728g
   - !!omap
     - id: YALI0E03058g
-    - name: YIL099W
+    - name: YALI0E03058g
   - !!omap
     - id: YALI0E03146g
-    - name: YIL107C
+    - name: YALI0E03146g
   - !!omap
     - id: YALI0E03212g
+    - name: YALI0E03212g
   - !!omap
     - id: YALI0E03806g
-    - name: YIL111W
+    - name: YALI0E03806g
   - !!omap
     - id: YALI0E03960g
-    - name: YIL116W
+    - name: YALI0E03960g
   - !!omap
     - id: YALI0E04048g
-    - name: YIL125W
+    - name: YALI0E04048g
   - !!omap
     - id: YALI0E04224g
-    - name: YIL134W
+    - name: YALI0E04224g
   - !!omap
     - id: YALI0E04763g
-    - name: YIL145C
+    - name: YALI0E04763g
   - !!omap
     - id: YALI0E04807g
-    - name: YIL155C
+    - name: YALI0E04807g
   - !!omap
     - id: YALI0E04939g
-    - name: YAR015W
+    - name: YALI0E04939g
   - !!omap
     - id: YALI0E05005g
-    - name: YIL160C
+    - name: YALI0E05005g
   - !!omap
     - id: YALI0E05027g
-    - name: YIL162W
+    - name: YALI0E05027g
   - !!omap
     - id: YALI0E05049g
+    - name: YALI0E05049g
   - !!omap
     - id: YALI0E05137g
-    - name: YIR027C
+    - name: YALI0E05137g
   - !!omap
     - id: YALI0E05203g
-    - name: YIR028W
+    - name: YALI0E05203g
   - !!omap
     - id: YALI0E05665g
-    - name: YIR029W
+    - name: YALI0E05665g
   - !!omap
     - id: YALI0E05753g
-    - name: YIR031C
+    - name: YALI0E05753g
   - !!omap
     - id: YALI0E06061g
-    - name: YIR034C
+    - name: YALI0E06061g
   - !!omap
     - id: YALI0E06193g
-    - name: YIR037W
+    - name: YALI0E06193g
   - !!omap
     - id: YALI0E06413g
-    - name: YBL042C
+    - name: YALI0E06413g
   - !!omap
     - id: YALI0E06457g
-    - name: YJL005W
+    - name: YALI0E06457g
   - !!omap
     - id: YALI0E06479g
-    - name: YJL045W
+    - name: YALI0E06479g
   - !!omap
     - id: YALI0E06567g
-    - name: YJL052W
+    - name: YALI0E06567g
   - !!omap
     - id: YALI0E07073g
-    - name: YBL064C
+    - name: YALI0E07073g
   - !!omap
     - id: YALI0E07161g
+    - name: YALI0E07161g
   - !!omap
     - id: YALI0E07205g
-    - name: YJL060W
+    - name: YALI0E07205g
   - !!omap
     - id: YALI0E07271g
-    - name: YJL068C
+    - name: YALI0E07271g
   - !!omap
     - id: YALI0E07535g
-    - name: YJL088W
+    - name: YALI0E07535g
   - !!omap
     - id: YALI0E07744g
-    - name: YJL091C
+    - name: YALI0E07744g
   - !!omap
     - id: YALI0E07766g
-    - name: YBL099W
+    - name: YALI0E07766g
   - !!omap
     - id: YALI0E07787g
+    - name: YALI0E07787g
   - !!omap
     - id: YALI0E08360g
-    - name: YJL097W
+    - name: YALI0E08360g
   - !!omap
     - id: YALI0E08617g
-    - name: YJL100W
+    - name: YALI0E08617g
   - !!omap
     - id: YALI0E09108g
-    - name: YJL101C
+    - name: YALI0E09108g
   - !!omap
     - id: YALI0E09306g
-    - name: YJL121C
+    - name: YALI0E09306g
   - !!omap
     - id: YALI0E09493g
-    - name: YBR002C
+    - name: YALI0E09493g
   - !!omap
     - id: YALI0E09603g
-    - name: YJL129C
+    - name: YALI0E09603g
   - !!omap
     - id: YALI0E09933g
-    - name: YJL134W
+    - name: YALI0E09933g
   - !!omap
     - id: YALI0E10144g
-    - name: YJL137C
+    - name: YALI0E10144g
   - !!omap
     - id: YALI0E10219g
-    - name: YJL139C
+    - name: YALI0E10219g
   - !!omap
     - id: YALI0E10307g
-    - name: YBR003W
+    - name: YALI0E10307g
   - !!omap
     - id: YALI0E10417g
-    - name: YBR026C
+    - name: YALI0E10417g
   - !!omap
     - id: YALI0E10637g
-    - name: YJL153C
+    - name: YALI0E10637g
   - !!omap
     - id: YALI0E11099g
-    - name: YBR084W
+    - name: YALI0E11099g
   - !!omap
     - id: YALI0E11355g
-    - name: YJL155C
+    - name: YALI0E11355g
   - !!omap
     - id: YALI0E11385g
-    - name: YJL166W
+    - name: YALI0E11385g
   - !!omap
     - id: YALI0E11495g
-    - name: YJL167W
+    - name: YALI0E11495g
   - !!omap
     - id: YALI0E11671g
-    - name: YJL198W
+    - name: YALI0E11671g
   - !!omap
     - id: YALI0E11913g
-    - name: YJL214W
+    - name: YALI0E11913g
   - !!omap
     - id: YALI0E12089g
-    - name: YJL219W
+    - name: YALI0E12089g
   - !!omap
     - id: YALI0E12441g
-    - name: YJR001W
+    - name: YALI0E12441g
   - !!omap
     - id: YALI0E12463g
-    - name: YJR009C
+    - name: YALI0E12463g
   - !!omap
     - id: YALI0E12628g
-    - name: YJR010W
+    - name: YALI0E12628g
   - !!omap
     - id: YALI0E12683g
-    - name: YJR013W
+    - name: YALI0E12683g
   - !!omap
     - id: YALI0E12837g
-    - name: YBR121C
+    - name: YALI0E12837g
   - !!omap
     - id: YALI0E13057g
-    - name: YBR153W
+    - name: YALI0E13057g
   - !!omap
     - id: YALI0E13123g
-    - name: YJR016C
+    - name: YALI0E13123g
   - !!omap
     - id: YALI0E14102g
-    - name: YBR166C
+    - name: YALI0E14102g
   - !!omap
     - id: YALI0E14190g
-    - name: YBR208C
+    - name: YALI0E14190g
   - !!omap
     - id: YALI0E14234g
-    - name: YBR218C
+    - name: YALI0E14234g
   - !!omap
     - id: YALI0E14256g
-    - name: YBR221C
+    - name: YALI0E14256g
   - !!omap
     - id: YALI0E14322g
-    - name: YJR019C
+    - name: YALI0E14322g
   - !!omap
     - id: YALI0E14443g
-    - name: YJR025C
+    - name: YALI0E14443g
   - !!omap
     - id: YALI0E14597g
-    - name: YBR248C
+    - name: YALI0E14597g
   - !!omap
     - id: YALI0E14685g
-    - name: YJR048W
+    - name: YALI0E14685g
   - !!omap
     - id: YALI0E14729g
+    - name: YALI0E14729g
   - !!omap
     - id: YALI0E14751g
-    - name: YJR049C
+    - name: YALI0E14751g
   - !!omap
     - id: YALI0E14949g
-    - name: YCL030C
+    - name: YALI0E14949g
   - !!omap
     - id: YALI0E15180g
-    - name: YJR073C
+    - name: YALI0E15180g
   - !!omap
     - id: YALI0E15224g
-    - name: YJR078W
+    - name: YALI0E15224g
   - !!omap
     - id: YALI0E15378g
-    - name: YCR024C_A
+    - name: YALI0E15378g
   - !!omap
     - id: YALI0E15488g
-    - name: YDL171C
+    - name: YALI0E15488g
   - !!omap
     - id: YALI0E15708g
-    - name: YDL215C
+    - name: YALI0E15708g
   - !!omap
     - id: YALI0E15730g
-    - name: YJR095W
+    - name: YALI0E15730g
   - !!omap
     - id: YALI0E15818g
+    - name: YALI0E15818g
   - !!omap
     - id: YALI0E15840g
-    - name: YDL245C
+    - name: YALI0E15840g
   - !!omap
     - id: YALI0E16016g
-    - name: YJR105W
+    - name: YALI0E16016g
   - !!omap
     - id: YALI0E16060g
-    - name: YJR109C
+    - name: YALI0E16060g
   - !!omap
     - id: YALI0E16192g
-    - name: YJR110W
+    - name: YALI0E16192g
   - !!omap
     - id: YALI0E16346g
-    - name: YJR121W
+    - name: YALI0E16346g
   - !!omap
     - id: YALI0E16368g
-    - name: YDR001C
+    - name: YALI0E16368g
   - !!omap
     - id: YALI0E16434g
-    - name: YJR130C
+    - name: YALI0E16434g
   - !!omap
     - id: YALI0E16478g
-    - name: YJR133W
+    - name: YALI0E16478g
   - !!omap
     - id: YALI0E16643g
-    - name: YDR047W
+    - name: YALI0E16643g
   - !!omap
     - id: YALI0E16709g
-    - name: YJR137C
+    - name: YALI0E16709g
   - !!omap
     - id: YALI0E16753g
-    - name: YJR139C
+    - name: YALI0E16753g
   - !!omap
     - id: YALI0E16797g
-    - name: YJR143C
+    - name: YALI0E16797g
   - !!omap
     - id: YALI0E16907g
-    - name: YJR148W
+    - name: YALI0E16907g
   - !!omap
     - id: YALI0E16929g
-    - name: YJR158W
+    - name: YALI0E16929g
   - !!omap
     - id: YALI0E17347g
-    - name: YJR159W
+    - name: YALI0E17347g
   - !!omap
     - id: YALI0E17391g
+    - name: YALI0E17391g
   - !!omap
     - id: YALI0E17479g
-    - name: YJR160C
+    - name: YALI0E17479g
   - !!omap
     - id: YALI0E17633g
-    - name: YKL001C
+    - name: YALI0E17633g
   - !!omap
     - id: YALI0E17787g
-    - name: YKL004W
+    - name: YALI0E17787g
   - !!omap
     - id: YALI0E17919g
-    - name: YKL016C
+    - name: YALI0E17919g
   - !!omap
     - id: YALI0E17963g
-    - name: YKL019W
+    - name: YALI0E17963g
   - !!omap
     - id: YALI0E17985g
-    - name: YKL024C
+    - name: YALI0E17985g
   - !!omap
     - id: YALI0E18029g
-    - name: YKL029C
+    - name: YALI0E18029g
   - !!omap
     - id: YALI0E18139g
+    - name: YALI0E18139g
   - !!omap
     - id: YALI0E18238g
-    - name: YDR074W
+    - name: YALI0E18238g
   - !!omap
     - id: YALI0E18282g
-    - name: YKL035W
+    - name: YALI0E18282g
   - !!omap
     - id: YALI0E18348g
-    - name: YDR191W
+    - name: YALI0E18348g
   - !!omap
     - id: YALI0E18568g
-    - name: YKL055C
+    - name: YALI0E18568g
   - !!omap
     - id: YALI0E18590g
+    - name: YALI0E18590g
   - !!omap
     - id: YALI0E18634g
-    - name: YKL060C
+    - name: YALI0E18634g
   - !!omap
     - id: YALI0E18898g
-    - name: YKL067W
+    - name: YALI0E18898g
   - !!omap
     - id: YALI0E18942g
-    - name: YKL080W
+    - name: YALI0E18942g
   - !!omap
     - id: YALI0E18964g
-    - name: YKL085W
+    - name: YALI0E18964g
   - !!omap
     - id: YALI0E19448g
-    - name: YKL088W
+    - name: YALI0E19448g
   - !!omap
     - id: YALI0E19723g
-    - name: YKL094W
+    - name: YALI0E19723g
   - !!omap
     - id: YALI0E20163g
+    - name: YALI0E20163g
   - !!omap
     - id: YALI0E20207g
+    - name: YALI0E20207g
   - !!omap
     - id: YALI0E20273g
+    - name: YALI0E20273g
   - !!omap
     - id: YALI0E20361g
-    - name: YKL104C
+    - name: YALI0E20361g
   - !!omap
     - id: YALI0E20471g
+    - name: YALI0E20471g
   - !!omap
     - id: YALI0E20691g
-    - name: YDR287W
+    - name: YALI0E20691g
   - !!omap
     - id: YALI0E20713g
-    - name: YDR300C
+    - name: YALI0E20713g
   - !!omap
     - id: YALI0E20977g
-    - name: YKL120W
+    - name: YALI0E20977g
   - !!omap
     - id: YALI0E21021g
-    - name: YKL127W
+    - name: YALI0E21021g
   - !!omap
     - id: YALI0E21197g
-    - name: YKL132C
+    - name: YALI0E21197g
   - !!omap
     - id: YALI0E21307g
-    - name: YDR341C
+    - name: YALI0E21307g
   - !!omap
     - id: YALI0E21351g
-    - name: YKL140W
+    - name: YALI0E21351g
   - !!omap
     - id: YALI0E21934g
-    - name: YKL141W
+    - name: YALI0E21934g
   - !!omap
     - id: YALI0E22198g
-    - name: YDR367W
+    - name: YALI0E22198g
   - !!omap
     - id: YALI0E22462g
+    - name: YALI0E22462g
   - !!omap
     - id: YALI0E22649g
-    - name: YKL146W
+    - name: YALI0E22649g
   - !!omap
     - id: YALI0E22957g
-    - name: YKL148C
+    - name: YALI0E22957g
   - !!omap
     - id: YALI0E22979g
-    - name: YKL152C
+    - name: YALI0E22979g
   - !!omap
     - id: YALI0E23859g
-    - name: YKL181W
+    - name: YALI0E23859g
   - !!omap
     - id: YALI0E23991g
-    - name: YDR408C
+    - name: YALI0E23991g
   - !!omap
     - id: YALI0E24013g
-    - name: YKL182W
+    - name: YALI0E24013g
   - !!omap
     - id: YALI0E24057g
-    - name: YKL188C
+    - name: YALI0E24057g
   - !!omap
     - id: YALI0E24167g
-    - name: YKL192C
+    - name: YALI0E24167g
   - !!omap
     - id: YALI0E24497g
-    - name: YDR483W
+    - name: YALI0E24497g
   - !!omap
     - id: YALI0E24607g
-    - name: YKL194C
+    - name: YALI0E24607g
   - !!omap
     - id: YALI0E25069g
-    - name: YKL211C
+    - name: YALI0E25069g
   - !!omap
     - id: YALI0E25091g
-    - name: YKL217W
+    - name: YALI0E25091g
   - !!omap
     - id: YALI0E25652g
-    - name: YKR031C
+    - name: YALI0E25652g
   - !!omap
     - id: YALI0E25740g
-    - name: YKR039W
+    - name: YALI0E25740g
   - !!omap
     - id: YALI0E25982g
+    - name: YALI0E25982g
   - !!omap
     - id: YALI0E26004g
-    - name: YKR043C
+    - name: YALI0E26004g
   - !!omap
     - id: YALI0E26719g
-    - name: YKR053C
+    - name: YALI0E26719g
   - !!omap
     - id: YALI0E26741g
+    - name: YALI0E26741g
   - !!omap
     - id: YALI0E26829g
-    - name: YKR058W
+    - name: YALI0E26829g
   - !!omap
     - id: YALI0E27005g
-    - name: YKR061W
+    - name: YALI0E27005g
   - !!omap
     - id: YALI0E27203g
-    - name: YKR066C
+    - name: YALI0E27203g
   - !!omap
     - id: YALI0E27247g
+    - name: YALI0E27247g
   - !!omap
     - id: YALI0E27291g
-    - name: YDR502C
+    - name: YALI0E27291g
   - !!omap
     - id: YALI0E27346g
-    - name: YKR067W
+    - name: YALI0E27346g
   - !!omap
     - id: YALI0E27654g
+    - name: YALI0E27654g
   - !!omap
     - id: YALI0E27874g
-    - name: YKR069W
+    - name: YALI0E27874g
   - !!omap
     - id: YALI0E28153g
-    - name: YKR072C
+    - name: YALI0E28153g
   - !!omap
     - id: YALI0E28237g
-    - name: YKR080W
+    - name: YALI0E28237g
   - !!omap
     - id: YALI0E28468g
-    - name: YKR089C
+    - name: YALI0E28468g
   - !!omap
     - id: YALI0E28787g
-    - name: YKR097W
+    - name: YALI0E28787g
   - !!omap
     - id: YALI0E28963g
-    - name: YLL012W
+    - name: YALI0E28963g
   - !!omap
     - id: YALI0E29139g
-    - name: YLL018C
+    - name: YALI0E29139g
   - !!omap
     - id: YALI0E29161g
-    - name: YDR529C
+    - name: YALI0E29161g
   - !!omap
     - id: YALI0E29579g
-    - name: YLL028W
+    - name: YALI0E29579g
   - !!omap
     - id: YALI0E29667g
-    - name: YLL031C
+    - name: YALI0E29667g
   - !!omap
     - id: YALI0E29975g
-    - name: YLL041C
+    - name: YALI0E29975g
   - !!omap
     - id: YALI0E30129g
-    - name: YLL043W
+    - name: YALI0E30129g
   - !!omap
     - id: YALI0E30283g
-    - name: YLL057C
+    - name: YALI0E30283g
   - !!omap
     - id: YALI0E30481g
-    - name: YLL062C
+    - name: YALI0E30481g
   - !!omap
     - id: YALI0E30591g
-    - name: YLR017W
+    - name: YALI0E30591g
   - !!omap
     - id: YALI0E30965g
-    - name: YLR020C
+    - name: YALI0E30965g
   - !!omap
     - id: YALI0E31009g
-    - name: YLR028C
+    - name: YALI0E31009g
   - !!omap
     - id: YALI0E31064g
-    - name: YLR038C
+    - name: YALI0E31064g
   - !!omap
     - id: YALI0E31086g
-    - name: YLR043C
+    - name: YALI0E31086g
   - !!omap
     - id: YALI0E31471g
-    - name: YLR044C
+    - name: YALI0E31471g
   - !!omap
     - id: YALI0E31515g
-    - name: YLR056W
+    - name: YALI0E31515g
   - !!omap
     - id: YALI0E31647g
+    - name: YALI0E31647g
   - !!omap
     - id: YALI0E32035g
-    - name: YLR058C
+    - name: YALI0E32035g
   - !!omap
     - id: YALI0E32065g
-    - name: YLR060W
+    - name: YALI0E32065g
   - !!omap
     - id: YALI0E32164g
-    - name: YLR070C
+    - name: YALI0E32164g
   - !!omap
     - id: YALI0E32351g
-    - name: YEL017C_A
+    - name: YALI0E32351g
   - !!omap
     - id: YALI0E32527g
-    - name: YLR081W
+    - name: YALI0E32527g
   - !!omap
     - id: YALI0E32736g
+    - name: YALI0E32736g
   - !!omap
     - id: YALI0E32769g
-    - name: YLR089C
+    - name: YALI0E32769g
   - !!omap
     - id: YALI0E32791g
-    - name: YLR092W
+    - name: YALI0E32791g
   - !!omap
     - id: YALI0E32835g
+    - name: YALI0E32835g
   - !!omap
     - id: YALI0E32901g
-    - name: YLR100W
+    - name: YALI0E32901g
   - !!omap
     - id: YALI0E33033g
-    - name: YLR109W
+    - name: YALI0E33033g
   - !!omap
     - id: YALI0E33099g
-    - name: YLR133W
+    - name: YALI0E33099g
   - !!omap
     - id: YALI0E33143g
-    - name: YLR134W
+    - name: YALI0E33143g
   - !!omap
     - id: YALI0E33495g
-    - name: YEL024W
+    - name: YALI0E33495g
   - !!omap
     - id: YALI0E33517g
-    - name: YLR138W
+    - name: YALI0E33517g
   - !!omap
     - id: YALI0E33774g
+    - name: YALI0E33774g
   - !!omap
     - id: YALI0E33957g
-    - name: YLR142W
+    - name: YALI0E33957g
   - !!omap
     - id: YALI0E34037g
-    - name: YLR146C
+    - name: YALI0E34037g
   - !!omap
     - id: YALI0E34133g
-    - name: YLR172C
+    - name: YALI0E34133g
   - !!omap
     - id: YALI0E34265g
-    - name: YLR174W
+    - name: YALI0E34265g
   - !!omap
     - id: YALI0E34672g
-    - name: YLR180W
+    - name: YALI0E34672g
   - !!omap
     - id: YALI0E34749g
-    - name: YLR189C
+    - name: YALI0E34749g
   - !!omap
     - id: YALI0E34793g
+    - name: YALI0E34793g
   - !!omap
     - id: YALI0E35156g
-    - name: YLR201C
+    - name: YALI0E35156g
   - !!omap
     - id: YALI0F00264g
-    - name: YLR209C
+    - name: YALI0F00264g
   - !!omap
     - id: YALI0F00396g
-    - name: YEL051W
+    - name: YALI0F00396g
   - !!omap
     - id: YALI0F00462g
-    - name: YLR231C
+    - name: YALI0F00462g
   - !!omap
     - id: YALI0F00484g
-    - name: YLR240W
+    - name: YALI0F00484g
   - !!omap
     - id: YALI0F00506g
-    - name: YER003C
+    - name: YALI0F00506g
   - !!omap
     - id: YALI0F01078g
-    - name: YLR245C
+    - name: YALI0F01078g
   - !!omap
     - id: YALI0F01210g
-    - name: YER043C
+    - name: YALI0F01210g
   - !!omap
     - id: YALI0F01320g
+    - name: YALI0F01320g
   - !!omap
     - id: YALI0F01496g
+    - name: YALI0F01496g
   - !!omap
     - id: YALI0F01672g
+    - name: YALI0F01672g
   - !!omap
     - id: YALI0F01771g
-    - name: YLR258W
+    - name: YALI0F01771g
   - !!omap
     - id: YALI0F02299g
-    - name: YLR260W
+    - name: YALI0F02299g
   - !!omap
     - id: YALI0F02497g
-    - name: YLR285W
+    - name: YALI0F02497g
   - !!omap
     - id: YALI0F02629g
-    - name: YLR295C
+    - name: YALI0F02629g
   - !!omap
     - id: YALI0F02849g
-    - name: YLR299W
+    - name: YALI0F02849g
   - !!omap
     - id: YALI0F02893g
-    - name: YLR300W
+    - name: YALI0F02893g
   - !!omap
     - id: YALI0F02937g
+    - name: YALI0F02937g
   - !!omap
     - id: YALI0F03179g
-    - name: YER055C
+    - name: YALI0F03179g
   - !!omap
     - id: YALI0F03201g
-    - name: YLR303W
+    - name: YALI0F03201g
   - !!omap
     - id: YALI0F03567g
-    - name: YLR304C
+    - name: YALI0F03567g
   - !!omap
     - id: YALI0F03597g
-    - name: YLR305C
+    - name: YALI0F03597g
   - !!omap
     - id: YALI0F04015g
-    - name: YLR307W
+    - name: YALI0F04015g
   - !!omap
     - id: YALI0F04095g
-    - name: YLR308W
+    - name: YALI0F04095g
   - !!omap
     - id: YALI0F04103g
-    - name: YLR328W
+    - name: YALI0F04103g
   - !!omap
     - id: YALI0F04114g
-    - name: YLR342W
+    - name: YALI0F04114g
   - !!omap
     - id: YALI0F04169g
-    - name: YLR348C
+    - name: YALI0F04169g
   - !!omap
     - id: YALI0F04378g
-    - name: YER060W_A
+    - name: YALI0F04378g
   - !!omap
     - id: YALI0F04444g
-    - name: YER152C
+    - name: YALI0F04444g
   - !!omap
     - id: YALI0F04774g
+    - name: YALI0F04774g
   - !!omap
     - id: YALI0F05038g
+    - name: YALI0F05038g
   - !!omap
     - id: YALI0F05192g
-    - name: YLR354C
+    - name: YALI0F05192g
   - !!omap
     - id: YALI0F05214g
-    - name: YLR355C
+    - name: YALI0F05214g
   - !!omap
     - id: YALI0F05390g
-    - name: YLR359W
+    - name: YALI0F05390g
   - !!omap
     - id: YALI0F05500g
-    - name: YLR372W
+    - name: YALI0F05500g
   - !!omap
     - id: YALI0F05610g
-    - name: YLR377C
+    - name: YALI0F05610g
   - !!omap
     - id: YALI0F05632g
-    - name: YLR382C
+    - name: YALI0F05632g
   - !!omap
     - id: YALI0F05874g
-    - name: YLR386W
+    - name: YALI0F05874g
   - !!omap
     - id: YALI0F05962g
-    - name: YER170W
+    - name: YALI0F05962g
   - !!omap
     - id: YALI0F05984g
+    - name: YALI0F05984g
   - !!omap
     - id: YALI0F06424g
-    - name: YLR395C
+    - name: YALI0F06424g
   - !!omap
     - id: YALI0F06468g
-    - name: YLR410W
+    - name: YALI0F06468g
   - !!omap
     - id: YALI0F06578g
-    - name: YLR420W
+    - name: YALI0F06578g
   - !!omap
     - id: YALI0F06710g
-    - name: YLR432W
+    - name: YALI0F06710g
   - !!omap
     - id: YALI0F06820g
-    - name: YLR438W
+    - name: YALI0F06820g
   - !!omap
     - id: YALI0F06842g
-    - name: YFL001W
+    - name: YALI0F06842g
   - !!omap
     - id: YALI0F06974g
-    - name: YLR447C
+    - name: YALI0F06974g
   - !!omap
     - id: YALI0F07062g
-    - name: YLR450W
+    - name: YALI0F07062g
   - !!omap
     - id: YALI0F07711g
-    - name: YML004C
+    - name: YALI0F07711g
   - !!omap
     - id: YALI0F07821g
+    - name: YALI0F07821g
   - !!omap
     - id: YALI0F08195g
-    - name: YML008C
+    - name: YALI0F08195g
   - !!omap
     - id: YALI0F08217g
-    - name: YML022W
+    - name: YALI0F08217g
   - !!omap
     - id: YALI0F08283g
-    - name: YML035C
+    - name: YALI0F08283g
   - !!omap
     - id: YALI0F08415g
-    - name: YML042W
+    - name: YALI0F08415g
   - !!omap
     - id: YALI0F08613g
-    - name: YML054C
+    - name: YALI0F08613g
   - !!omap
     - id: YALI0F08701g
-    - name: YML056C
+    - name: YALI0F08701g
   - !!omap
     - id: YALI0F08723g
+    - name: YALI0F08723g
   - !!omap
     - id: YALI0F09097g
-    - name: YML059C
+    - name: YALI0F09097g
   - !!omap
     - id: YALI0F09185g
-    - name: YML075C
+    - name: YALI0F09185g
   - !!omap
     - id: YALI0F09229g
-    - name: YML081C_A
+    - name: YALI0F09229g
   - !!omap
     - id: YALI0F09251g
+    - name: YALI0F09251g
   - !!omap
     - id: YALI0F09273g
-    - name: YFL011W
+    - name: YALI0F09273g
   - !!omap
     - id: YALI0F09339g
-    - name: YML086C
+    - name: YALI0F09339g
   - !!omap
     - id: YALI0F09405g
-    - name: YML100W
+    - name: YALI0F09405g
   - !!omap
     - id: YALI0F09449g
-    - name: YML106W
+    - name: YALI0F09449g
   - !!omap
     - id: YALI0F09559g
-    - name: YML110C
+    - name: YALI0F09559g
   - !!omap
     - id: YALI0F09603g
-    - name: YML120C
+    - name: YALI0F09603g
   - !!omap
     - id: YALI0F09625g
-    - name: YML123C
+    - name: YALI0F09625g
   - !!omap
     - id: YALI0F09966g
-    - name: YML126C
+    - name: YALI0F09966g
   - !!omap
     - id: YALI0F10010g
-    - name: YMR006C
+    - name: YALI0F10010g
   - !!omap
     - id: YALI0F10857g
-    - name: YMR008C
+    - name: YALI0F10857g
   - !!omap
     - id: YALI0F10923g
-    - name: YMR009W
+    - name: YALI0F10923g
   - !!omap
     - id: YALI0F11231g
-    - name: YMR011W
+    - name: YALI0F11231g
   - !!omap
     - id: YALI0F11297g
-    - name: YFL022C
+    - name: YALI0F11297g
   - !!omap
     - id: YALI0F11583g
-    - name: YMR013C
+    - name: YALI0F11583g
   - !!omap
     - id: YALI0F11649g
+    - name: YALI0F11649g
   - !!omap
     - id: YALI0F11759g
-    - name: YMR015C
+    - name: YALI0F11759g
   - !!omap
     - id: YALI0F11935g
-    - name: YMR041C
+    - name: YALI0F11935g
   - !!omap
     - id: YALI0F12089g
-    - name: YFL053W
+    - name: YALI0F12089g
   - !!omap
     - id: YALI0F12177g
-    - name: YMR054W
+    - name: YALI0F12177g
   - !!omap
     - id: YALI0F12199g
-    - name: YMR083W
+    - name: YALI0F12199g
   - !!omap
     - id: YALI0F12639g
-    - name: YMR101C
+    - name: YALI0F12639g
   - !!omap
     - id: YALI0F12749g
-    - name: YMR105C
+    - name: YALI0F12749g
   - !!omap
     - id: YALI0F12925g
-    - name: YMR108W
+    - name: YALI0F12925g
   - !!omap
     - id: YALI0F13145g
-    - name: YFL055W
+    - name: YALI0F13145g
   - !!omap
     - id: YALI0F13453g
-    - name: YMR113W
+    - name: YALI0F13453g
   - !!omap
     - id: YALI0F13541g
-    - name: YMR120C
+    - name: YALI0F13541g
   - !!omap
     - id: YALI0F13937g
-    - name: YFR030W
+    - name: YALI0F13937g
   - !!omap
     - id: YALI0F14025g
-    - name: YMR145C
+    - name: YALI0F14025g
   - !!omap
     - id: YALI0F14223g
-    - name: YGL009C
+    - name: YALI0F14223g
   - !!omap
     - id: YALI0F14729g
-    - name: YMR165C
+    - name: YALI0F14729g
   - !!omap
     - id: YALI0F15345g
-    - name: YMR189W
+    - name: YALI0F15345g
   - !!omap
     - id: YALI0F15433g
-    - name: YMR202W
+    - name: YALI0F15433g
   - !!omap
     - id: YALI0F15587g
-    - name: YMR205C
+    - name: YALI0F15587g
   - !!omap
     - id: YALI0F15631g
-    - name: YMR208W
+    - name: YALI0F15631g
   - !!omap
     - id: YALI0F15983g
-    - name: YGL012W
+    - name: YALI0F15983g
   - !!omap
     - id: YALI0F16181g
-    - name: YMR217W
+    - name: YALI0F16181g
   - !!omap
     - id: YALI0F16225g
-    - name: YGL026C
+    - name: YALI0F16225g
   - !!omap
     - id: YALI0F16291g
-    - name: YMR220W
+    - name: YALI0F16291g
   - !!omap
     - id: YALI0F16423g
-    - name: YGL037C
+    - name: YALI0F16423g
   - !!omap
     - id: YALI0F16709g
-    - name: YMR226C
+    - name: YALI0F16709g
   - !!omap
     - id: YALI0F16819g
-    - name: YMR241W
+    - name: YALI0F16819g
   - !!omap
     - id: YALI0F16896g
-    - name: YMR246W
+    - name: YALI0F16896g
   - !!omap
     - id: YALI0F17138g
-    - name: YMR250W
+    - name: YALI0F17138g
   - !!omap
     - id: YALI0F17644g
-    - name: YMR256C
+    - name: YALI0F17644g
   - !!omap
     - id: YALI0F17820g
-    - name: YMR261C
+    - name: YALI0F17820g
   - !!omap
     - id: YALI0F17996g
+    - name: YALI0F17996g
   - !!omap
     - id: YALI0F18216g
-    - name: YGL224C
+    - name: YALI0F18216g
   - !!omap
     - id: YALI0F18502g
-    - name: YMR271C
+    - name: YALI0F18502g
   - !!omap
     - id: YALI0F18590g
-    - name: YGL225W
+    - name: YALI0F18590g
   - !!omap
     - id: YALI0F19052g
-    - name: YMR272C
+    - name: YALI0F19052g
   - !!omap
     - id: YALI0F19184g
-    - name: YMR278W
+    - name: YALI0F19184g
   - !!omap
     - id: YALI0F19448g
-    - name: YMR281W
+    - name: YALI0F19448g
   - !!omap
     - id: YALI0F19470g
-    - name: YMR289W
+    - name: YALI0F19470g
   - !!omap
     - id: YALI0F19514g
-    - name: YMR293C
+    - name: YALI0F19514g
   - !!omap
     - id: YALI0F19536g
+    - name: YALI0F19536g
   - !!omap
     - id: YALI0F19712g
-    - name: YGL245W
+    - name: YALI0F19712g
   - !!omap
     - id: YALI0F19866g
-    - name: YMR296C
+    - name: YALI0F19866g
   - !!omap
     - id: YALI0F20218g
-    - name: YMR298W
+    - name: YALI0F20218g
   - !!omap
     - id: YALI0F20262g
-    - name: YMR300C
+    - name: YALI0F20262g
   - !!omap
     - id: YALI0F20306g
-    - name: YMR303C
+    - name: YALI0F20306g
   - !!omap
     - id: YALI0F20328g
-    - name: YMR313C
+    - name: YALI0F20328g
   - !!omap
     - id: YALI0F20504g
-    - name: YNL003C
+    - name: YALI0F20504g
   - !!omap
     - id: YALI0F20570g
-    - name: YNL009W
+    - name: YALI0F20570g
   - !!omap
     - id: YALI0F20702g
-    - name: YNL029C
+    - name: YALI0F20702g
   - !!omap
     - id: YALI0F20790g
-    - name: YNL037C
+    - name: YALI0F20790g
   - !!omap
     - id: YALI0F20900g
+    - name: YALI0F20900g
   - !!omap
     - id: YALI0F21010g
-    - name: YNL052W
+    - name: YALI0F21010g
   - !!omap
     - id: YALI0F21109g
+    - name: YALI0F21109g
   - !!omap
     - id: YALI0F21197g
-    - name: YNL071W
+    - name: YALI0F21197g
   - !!omap
     - id: YALI0F21219g
-    - name: YNL073W
+    - name: YALI0F21219g
   - !!omap
     - id: YALI0F21527g
-    - name: YNL117W
+    - name: YALI0F21527g
   - !!omap
     - id: YALI0F21791g
-    - name: YGR065C
+    - name: YALI0F21791g
   - !!omap
     - id: YALI0F22121g
+    - name: YALI0F22121g
   - !!omap
     - id: YALI0F22517g
-    - name: YNL129W
+    - name: YALI0F22517g
   - !!omap
     - id: YALI0F22605g
+    - name: YALI0F22605g
   - !!omap
     - id: YALI0F22781g
-    - name: YNL130C
+    - name: YALI0F22781g
   - !!omap
     - id: YALI0F22825g
-    - name: YNL142W
+    - name: YALI0F22825g
   - !!omap
     - id: YALI0F23221g
-    - name: YGR191W
+    - name: YALI0F23221g
   - !!omap
     - id: YALI0F23243g
-    - name: YNL169C
+    - name: YALI0F23243g
   - !!omap
     - id: YALI0F23441g
-    - name: YNL202W
+    - name: YALI0F23441g
   - !!omap
     - id: YALI0F23463g
-    - name: YNL220W
+    - name: YALI0F23463g
   - !!omap
     - id: YALI0F23573g
-    - name: YGR193C
+    - name: YALI0F23573g
   - !!omap
     - id: YALI0F23727g
-    - name: YNL241C
+    - name: YALI0F23727g
   - !!omap
     - id: YALI0F23749g
+    - name: YALI0F23749g
   - !!omap
     - id: YALI0F23837g
-    - name: YNL247W
+    - name: YALI0F23837g
   - !!omap
     - id: YALI0F23903g
-    - name: YNL256W
+    - name: YALI0F23903g
   - !!omap
     - id: YALI0F23947g
-    - name: YNL267W
+    - name: YALI0F23947g
   - !!omap
     - id: YALI0F24475g
-    - name: YNL268W
+    - name: YALI0F24475g
   - !!omap
     - id: YALI0F24673g
+    - name: YALI0F24673g
   - !!omap
     - id: YALI0F24893g
-    - name: YNL270C
+    - name: YALI0F24893g
   - !!omap
     - id: YALI0F24937g
-    - name: YNL277W
+    - name: YALI0F24937g
   - !!omap
     - id: YALI0F25047g
-    - name: YNL280C
+    - name: YALI0F25047g
   - !!omap
     - id: YALI0F25135g
-    - name: YNL292W
+    - name: YALI0F25135g
   - !!omap
     - id: YALI0F25641g
-    - name: YNL316C
+    - name: YALI0F25641g
   - !!omap
     - id: YALI0F25795g
-    - name: YNL318C
+    - name: YALI0F25795g
   - !!omap
     - id: YALI0F25817g
-    - name: YNL325C
+    - name: YALI0F25817g
   - !!omap
     - id: YALI0F26125g
+    - name: YALI0F26125g
   - !!omap
     - id: YALI0F26191g
-    - name: YGR256W
+    - name: YALI0F26191g
   - !!omap
     - id: YALI0F26323g
-    - name: YNR001C
+    - name: YALI0F26323g
   - !!omap
     - id: YALI0F26433g
-    - name: YNR008W
+    - name: YALI0F26433g
   - !!omap
     - id: YALI0F26455g
-    - name: YNR012W
+    - name: YALI0F26455g
   - !!omap
     - id: YALI0F26521g
-    - name: YNR013C
+    - name: YALI0F26521g
   - !!omap
     - id: YALI0F26587g
+    - name: YALI0F26587g
   - !!omap
     - id: YALI0F26609g
-    - name: YNR016C
+    - name: YALI0F26609g
   - !!omap
     - id: YALI0F26785g
-    - name: YNR019W
+    - name: YALI0F26785g
   - !!omap
     - id: YALI0F27247g
-    - name: YNR033W
+    - name: YALI0F27247g
   - !!omap
     - id: YALI0F27313g
-    - name: YNR041C
+    - name: YALI0F27313g
   - !!omap
     - id: YALI0F27665g
-    - name: YNR043W
+    - name: YALI0F27665g
   - !!omap
     - id: YALI0F27885g
-    - name: YNR050C
+    - name: YALI0F27885g
   - !!omap
     - id: YALI0F28193g
+    - name: YALI0F28193g
   - !!omap
     - id: YALI0F28369g
+    - name: YALI0F28369g
   - !!omap
     - id: YALI0F28655g
-    - name: YGR282C
+    - name: YALI0F28655g
   - !!omap
     - id: YALI0F28765g
-    - name: YHL011C
+    - name: YALI0F28765g
   - !!omap
     - id: YALI0F29337g
-    - name: YHR025W
+    - name: YALI0F29337g
   - !!omap
     - id: YALI0F29843g
-    - name: YNR067C
+    - name: YALI0F29843g
   - !!omap
     - id: YALI0F29975g
-    - name: YNR072W
+    - name: YALI0F29975g
   - !!omap
     - id: YALI0F30019g
-    - name: YOL011W
+    - name: YALI0F30019g
   - !!omap
     - id: YALI0F30063g
-    - name: YOL033W
+    - name: YALI0F30063g
   - !!omap
     - id: YALI0F30129g
-    - name: YOL049W
+    - name: YALI0F30129g
   - !!omap
     - id: YALI0F30349g
-    - name: YOL052C
+    - name: YALI0F30349g
   - !!omap
     - id: YALI0F30481g
-    - name: YOL055C
+    - name: YALI0F30481g
   - !!omap
     - id: YALI0F30569g
-    - name: YOL059W
+    - name: YALI0F30569g
   - !!omap
     - id: YALI0F30679g
-    - name: YOL061W
+    - name: YALI0F30679g
   - !!omap
     - id: YALI0F30745g
-    - name: YHR042W
+    - name: YALI0F30745g
   - !!omap
     - id: YALI0F30811g
-    - name: YOL064C
+    - name: YALI0F30811g
   - !!omap
     - id: YALI0F30833g
-    - name: YOL065C
+    - name: YALI0F30833g
   - !!omap
     - id: YALI0F30987g
-    - name: YOL066C
+    - name: YALI0F30987g
   - !!omap
     - id: YALI0F31075g
-    - name: YOL068C
+    - name: YALI0F31075g
   - !!omap
     - id: YALI0F31273g
-    - name: YOL096C
+    - name: YALI0F31273g
   - !!omap
     - id: YALI0F31735g
-    - name: YOL097C
+    - name: YALI0F31735g
   - !!omap
     - id: YALI0F31999g
-    - name: YOL103W
+    - name: YALI0F31999g
   - !!omap
     - id: YALIUNK1
+    - name: YALIUNK1
 - compartments: !!omap
     - c: cytoplasm
     - ce: cell envelope

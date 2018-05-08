@@ -1394,7 +1394,7 @@
     - id: s_0001
     - name: (1-3)-beta-D-glucan
     - compartment: ce
-    - formula: (C6H10O5)n
+    - formula: C6H10O5
     - charge: 0
     - annotation: !!omap
       - chebi: CHEBI:37671
@@ -1403,7 +1403,7 @@
     - id: s_0002
     - name: (1-3)-beta-D-glucan
     - compartment: c
-    - formula: (C6H10O5)n
+    - formula: C6H10O5
     - charge: 0
     - annotation: !!omap
       - chebi: CHEBI:37671
@@ -1412,7 +1412,7 @@
     - id: s_0003
     - name: (1-3)-beta-D-glucan
     - compartment: e
-    - formula: (C6H10O5)n
+    - formula: C6H10O5
     - charge: 0
     - annotation: !!omap
       - chebi: CHEBI:37671
@@ -1421,7 +1421,7 @@
     - id: s_0004
     - name: (1-6)-beta-D-glucan
     - compartment: ce
-    - formula: C12H22O11(C6H10O5)n
+    - formula: C6H10O5
     - charge: 0
     - annotation: !!omap
       - chebi: CHEBI:27380
@@ -4708,7 +4708,7 @@
     - id: s_0509
     - name: chitin
     - compartment: c
-    - formula: H2O(C8H13NO5)n
+    - formula: C8H13NO5
     - charge: 0
     - annotation: !!omap
       - chebi: CHEBI:17029
@@ -4717,7 +4717,7 @@
     - id: s_0510
     - name: chitosan
     - compartment: ce
-    - formula: H2O(C6H12NO4)n
+    - formula: C6H11NO4
     - charge: 0
     - annotation: !!omap
       - chebi: CHEBI:16261

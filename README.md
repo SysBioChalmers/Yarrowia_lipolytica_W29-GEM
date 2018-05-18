@@ -2,7 +2,7 @@
 
 - Brief Model Description
 
-This repository contains the current genome-scale metabolic model of _Yarrowia lipolytica_ W29, named **iYali4**. Various different updated versions can be downloaded as [releases](https://github.com/SysBioChalmers/Yarrowia_lipolytica_W29-GEM/releases).
+This repository contains the current genome-scale metabolic model of _Yarrowia lipolytica_ W29, named **iYali**. Various different updated versions can be downloaded as [releases](https://github.com/SysBioChalmers/Yarrowia_lipolytica_W29-GEM/releases).
 
 - Abstract
 
@@ -10,34 +10,44 @@ _Yarrowia lipolytica_ is a promising microbial cell factory for the production o
 
 - Model KeyWords
 
-**GEM Category:** Species; **Utilisation:** experimental data reconstruction; **Field:** metabolic-network reconstruction; **Type of Model:** curated; **Model Source:** [YeastMetabolicNetwork](https://github.com/SysBioChalmers/yeast-metabolic-network-7.6); **Omic Source:** [Transcriptomics](http://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-5284/), [Proteomics](https://doi.org/10.6084/m9.figshare.4990394.v1), [Metabolomics](https://doi.org/10.6084/m9.figshare.4990394.v1); **Taxonomy:** Yarrowia lipolytica W29; **Metabolic System:** General Metabolism; **Bioreactor**; **Strain:** W29; **Condition:** Minimal medium;
+**GEM Category:** Species; **Utilisation:** experimental data reconstruction; **Field:** metabolic-network reconstruction; **Type of Model:** curated; **Model Source:** [yeast-GEM](https://github.com/SysBioChalmers/yeast-GEM); **Omic Source:** [Transcriptomics](http://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-5284/), [Proteomics](https://doi.org/10.6084/m9.figshare.4990394.v1), [Metabolomics](https://doi.org/10.6084/m9.figshare.4990394.v1); **Taxonomy:** Yarrowia lipolytica W29; **Metabolic System:** General Metabolism; **Bioreactor**; **Strain:** W29; **Condition:** Minimal medium;
 
 - Reference:  
 >Kerkhoven EJ, Pomraning KR, Baker SE, Nielsen J (2016) "Regulation of amino-acid metabolism controls flux to lipid accumulation in _Yarrowia lipolytica_." npj Systems Biology and Applications 2:16005. doi:[10.1038/npjsba.2016.5](http://www.nature.com/articles/npjsba20165)
 
 - Pubmed ID: 28725468
 
-- Last update: 2017-10-24
+- Last update: 2018-05-18
 
 - The model:
 
 |Taxonomy | Template Model | Reactions | Metabolites| Genes |
 | ------------- |:-------------:|:-------------:|:-------------:|-----:|
-|Yarrowia lipolytica W29 |	YeastMetabolicNetwork 7.6| 1942|	1691|	847|
+|Yarrowia lipolytica W29 | yeast-GEM | 1924 | 1671 | 847 |
 
 
 This repository is administered by [@edkerk](https://github.com/edkerk/), Division of Systems and Synthetic Biology, Department of Biology and Biological Engineering, Chalmers University of Technology
 
-
 ## Installation
 
-### Required Software
-
-  * This model is recommended to be used with the [**RAVEN toolbox for MATLAB**](https://github.com/SysBioChalmers/RAVEN) (version 2.0).
-  * Alternatively, the model can also be directly used with the [COBRA toolbox for MATLAB](https://github.com/opencobra/cobratoolbox).
-
-### Dependencies - Recommended Software
-* Please see the [RAVEN toolbox](https://github.com/SysBioChalmers/RAVEN) repository for dependencies regarding RAVEN.
+### Recommended Software:
+* A functional Matlab installation (MATLAB 7.3 or higher).
+* [RAVEN Toolbox 2](https://github.com/SysBioChalmers/RAVEN) for MATLAB (required for contributing to development). 
+* libSBML MATLAB API ([version 5.16.0](https://sourceforge.net/projects/sbml/files/libsbml/5.13.0/stable/MATLAB%20interface/)  is recommended).
+* [Gurobi Optimizer for MATLAB](http://www.gurobi.com/registration/download-reg).
+* For contributing to development: a [git wrapper](https://github.com/manur/MATLAB-git) added to the search path.
 
 ### Installation Instructions
-* Clone [master](https://github.com/SysBioChalmers/Yarrowia_lipolytica_W29-GEM) branch from [SysBioChalmers GitHub](https://github.com/SysBioChalmers/Yarrowia_lipolytica_W29-GEM).
+* Clone the [master](https://github.com/SysBioChalmers/Yarrowia_lipolytica_W29-GEM) branch from [SysBioChalmers GitHub](https://github.com/SysBioChalmers).
+* Add the directory to your Matlab path, instructions [here](https://se.mathworks.com/help/matlab/ref/addpath.html?requestedDomain=www.mathworks.com).
+
+### Contribute To Development
+1. Fork the repository to your own Github account
+2. Create a new branch from [`devel`](https://github.com/SysBioChalmers/Yarrowia_lipolytica_W29-GEM/tree/devel).
+3. Make changes to the model
+    + [RAVEN Toolbox 2](https://github.com/SysBioChalmers/RAVEN) for MATLAB is highly recommended for making changes
+    + Before each commit, run in Matlab the `newCommit(model)` function from the `ComplementaryScripts` folder, this exports the necessary `txt`, `yml` and `xml` files that can be used to track changes between different model versions
+    + Make a Pull Request to the `devel` folder, including changed `txt`, `yml` and `xml` files
+
+## Contributors
+* [Eduard J. Kerkhoven](https://www.chalmers.se/en/staff/Pages/Eduard-Kerkhoven.aspx) ([@edkerk](https://github.com/edkerk)), Chalmers University of Technology, Göteborg, Sweden

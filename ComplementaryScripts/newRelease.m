@@ -16,9 +16,9 @@ if ~strcmp(currentBranch,'master')
 end
 
 %Bump version number:
-oldModel   = load('ModelFiles/mat/iYali.mat');
+oldModel   = load('../ModelFiles/mat/iYali.mat');
 oldVersion = oldModel.model.description;
-oldVersion = oldVersion(2:end);
+oldVersion = oldVersion(strfind(oldVersion,'_v')+2:end);
 oldVersion = str2double(strsplit(oldVersion,'.'));
 newVersion = oldVersion;
 switch bumpType
@@ -37,24 +37,24 @@ end
 newVersion = num2str(newVersion,'%d.%d.%d');
 
 %Check if history has been updated:
-fid     = fopen('history.md','r');
+fid     = fopen('../history.md','r');
 history = fscanf(fid,'%s');
 fclose(fid);
-if ~contains(history,['iYali' newVersion ':'])
+if ~contains(history,['iYaliv' newVersion ':'])
     error('ERROR: update history.md first')
 end
 
 %Load model:
-model = importModel('ModelFiles/xml/iYali.xml');
+model = importModel('../ModelFiles/xml/iYali.xml');
 
 %Include tag and save model:
-model.description = ['v' newVersion];
+model.description = ['Yarrowia_lipolytica-GEM_v' newVersion];
 
 %Save model
-exportForGit(model,'iYali','',{'mat', 'txt', 'xlsx', 'xml', 'yml'});
+exportForGit(model,'iYali','../',{'mat', 'txt', 'xlsx', 'xml', 'yml'});
 
 %Update version file:
-fid = fopen('version.txt','wt');
+fid = fopen('../version.txt','wt');
 fprintf(fid,newVersion);
 fclose(fid);
 end

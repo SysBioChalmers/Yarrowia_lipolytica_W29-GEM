@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sbml xmlns="http://www.sbml.org/sbml/level3/version1/core" xmlns:fbc="http://www.sbml.org/sbml/level3/version1/fbc/version2" xmlns:groups="http://www.sbml.org/sbml/level3/version1/groups/version1" level="3" version="1" fbc:required="false" groups:required="false">
-  <model metaid="iYali" id="iYali" name="v4.1.0" fbc:strict="true">
+  <model metaid="iYali" id="iYali" name="Yarrowia_lipolytica-GEM_v4.1.1" fbc:strict="true">
     <annotation>
       <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
         <rdf:Description rdf:about="#iYali">
@@ -19,10 +19,10 @@
             </rdf:Bag>
           </dcterms:creator>
           <dcterms:created rdf:parseType="Resource">
-            <dcterms:W3CDTF>2018-05-15T22:37:22Z</dcterms:W3CDTF>
+            <dcterms:W3CDTF>2018-09-12T14:16:55Z</dcterms:W3CDTF>
           </dcterms:created>
           <dcterms:modified rdf:parseType="Resource">
-            <dcterms:W3CDTF>2018-05-15T22:37:22Z</dcterms:W3CDTF>
+            <dcterms:W3CDTF>2018-09-12T14:16:55Z</dcterms:W3CDTF>
           </dcterms:modified>
           <bqbiol:is>
             <rdf:Bag>
@@ -4237,6 +4237,122 @@
         <listOfProducts>
           <speciesReference species="M_s_0394" stoichiometry="86.7881" constant="true"/>
           <speciesReference species="M_s_1322" stoichiometry="86.7881" constant="true"/>
+          <speciesReference species="M_s_0450" stoichiometry="1" constant="true"/>
+        </listOfProducts>
+      </reaction>
+      <reaction metaid="R_xBIOMASS_CLim" sboTerm="SBO:0000176" id="R_xBIOMASS_CLim" name="Biomass production in C-lim" reversible="false" fast="false" fbc:lowerFluxBound="FB3N0" fbc:upperFluxBound="FB4N1000">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+            <p>NOTES: Modeling reaction based on iYLI647</p>
+          </body>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_s_0001" stoichiometry="0.281481" constant="true"/>
+          <speciesReference species="M_s_0423" stoichiometry="0.0482" constant="true"/>
+          <speciesReference species="M_s_0434" stoichiometry="23.09" constant="true"/>
+          <speciesReference species="M_s_0509" stoichiometry="0.259113" constant="true"/>
+          <speciesReference species="M_s_0526" stoichiometry="0.0368" constant="true"/>
+          <speciesReference species="M_s_0584" stoichiometry="0.00138578247734139" constant="true"/>
+          <speciesReference species="M_s_0589" stoichiometry="0.00143552442996743" constant="true"/>
+          <speciesReference species="M_s_0615" stoichiometry="0.00127004610951009" constant="true"/>
+          <speciesReference species="M_s_0649" stoichiometry="0.00142451552795031" constant="true"/>
+          <speciesReference species="M_s_0666" stoichiometry="0.035250723" constant="true"/>
+          <speciesReference species="M_s_0782" stoichiometry="0.0593" constant="true"/>
+          <speciesReference species="M_s_0803" stoichiometry="23.09" constant="true"/>
+          <speciesReference species="M_s_0955" stoichiometry="0.0978466971830986" constant="true"/>
+          <speciesReference species="M_s_0965" stoichiometry="0.0192387579617834" constant="true"/>
+          <speciesReference species="M_s_0969" stoichiometry="0.0296749403508772" constant="true"/>
+          <speciesReference species="M_s_0973" stoichiometry="0.0296749403508772" constant="true"/>
+          <speciesReference species="M_s_0981" stoichiometry="0.000586501941747573" constant="true"/>
+          <speciesReference species="M_s_0991" stoichiometry="0.03822801328125" constant="true"/>
+          <speciesReference species="M_s_0999" stoichiometry="0.03822801328125" constant="true"/>
+          <speciesReference species="M_s_1003" stoichiometry="0.0922042789473684" constant="true"/>
+          <speciesReference species="M_s_1006" stoichiometry="0.00837798759124088" constant="true"/>
+          <speciesReference species="M_s_1016" stoichiometry="0.0144341761061947" constant="true"/>
+          <speciesReference species="M_s_1021" stoichiometry="0.0310067486725664" constant="true"/>
+          <speciesReference species="M_s_1025" stoichiometry="0.0430828868217054" constant="true"/>
+          <speciesReference species="M_s_1029" stoichiometry="0.00691714122137404" constant="true"/>
+          <speciesReference species="M_s_1032" stoichiometry="0.0127394605442177" constant="true"/>
+          <speciesReference species="M_s_1035" stoichiometry="0.0336301422680412" constant="true"/>
+          <speciesReference species="M_s_1039" stoichiometry="0.0472167770114943" constant="true"/>
+          <speciesReference species="M_s_1045" stoichiometry="0.034092602970297" constant="true"/>
+          <speciesReference species="M_s_1048" stoichiometry="0.000324783333333333" constant="true"/>
+          <speciesReference species="M_s_1051" stoichiometry="0.0063003981595092" constant="true"/>
+          <speciesReference species="M_s_1056" stoichiometry="0.0280691535353535" constant="true"/>
+          <speciesReference species="M_s_1467" stoichiometry="0.02" constant="true"/>
+          <speciesReference species="M_s_1520" stoichiometry="0.002047" constant="true"/>
+          <speciesReference species="M_s_1545" stoichiometry="0.0397" constant="true"/>
+          <speciesReference species="M_s_1572" stoichiometry="0.003029289" constant="true"/>
+          <speciesReference species="M_s_1107" stoichiometry="0.07037" constant="true"/>
+          <speciesReference species="M_s_1337" stoichiometry="3.464854e-005" constant="true"/>
+          <speciesReference species="M_s_1524" stoichiometry="0.00023403363" constant="true"/>
+          <speciesReference species="M_m1705" stoichiometry="5.774757e-005" constant="true"/>
+          <speciesReference species="M_m1393" stoichiometry="7.507185e-005" constant="true"/>
+          <speciesReference species="M_m1700" stoichiometry="0.00023676505" constant="true"/>
+          <speciesReference species="M_m1701" stoichiometry="0.00034648544" constant="true"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_s_0394" stoichiometry="23.09" constant="true"/>
+          <speciesReference species="M_s_0794" stoichiometry="23.09" constant="true"/>
+          <speciesReference species="M_s_1322" stoichiometry="23.09" constant="true"/>
+          <speciesReference species="M_s_0450" stoichiometry="1" constant="true"/>
+        </listOfProducts>
+      </reaction>
+      <reaction metaid="R_xBIOMASS_NLim" sboTerm="SBO:0000176" id="R_xBIOMASS_NLim" name="Biomass production in N-lim" reversible="false" fast="false" fbc:lowerFluxBound="FB3N0" fbc:upperFluxBound="FB4N1000">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+            <p>NOTES: Modeling reaction based on iYLI647</p>
+          </body>
+        </notes>
+        <listOfReactants>
+          <speciesReference species="M_s_0001" stoichiometry="0.257113988" constant="true"/>
+          <speciesReference species="M_s_0423" stoichiometry="0.001432042" constant="true"/>
+          <speciesReference species="M_s_0434" stoichiometry="20.31" constant="true"/>
+          <speciesReference species="M_s_0509" stoichiometry="0.236682322" constant="true"/>
+          <speciesReference species="M_s_0526" stoichiometry="0.001478116" constant="true"/>
+          <speciesReference species="M_s_0584" stoichiometry="0.016513908" constant="true"/>
+          <speciesReference species="M_s_0589" stoichiometry="0.017106666" constant="true"/>
+          <speciesReference species="M_s_0615" stoichiometry="0.015134716" constant="true"/>
+          <speciesReference species="M_s_0649" stoichiometry="0.016975477" constant="true"/>
+          <speciesReference species="M_s_0666" stoichiometry="0.060650767" constant="true"/>
+          <speciesReference species="M_s_0782" stoichiometry="0.001315238" constant="true"/>
+          <speciesReference species="M_s_0803" stoichiometry="20.31" constant="true"/>
+          <speciesReference species="M_s_0955" stoichiometry="0.09496" constant="true"/>
+          <speciesReference species="M_s_0965" stoichiometry="0.018065337" constant="true"/>
+          <speciesReference species="M_s_0969" stoichiometry="0.026287726" constant="true"/>
+          <speciesReference species="M_s_0973" stoichiometry="0.026287726" constant="true"/>
+          <speciesReference species="M_s_0981" stoichiometry="0.000519556" constant="true"/>
+          <speciesReference species="M_s_0991" stoichiometry="0.032192196" constant="true"/>
+          <speciesReference species="M_s_0999" stoichiometry="0.032192196" constant="true"/>
+          <speciesReference species="M_s_1003" stoichiometry="0.082618568" constant="true"/>
+          <speciesReference species="M_s_1006" stoichiometry="0.007031076" constant="true"/>
+          <speciesReference species="M_s_1016" stoichiometry="0.013733758" constant="true"/>
+          <speciesReference species="M_s_1021" stoichiometry="0.02888825" constant="true"/>
+          <speciesReference species="M_s_1025" stoichiometry="0.031527805" constant="true"/>
+          <speciesReference species="M_s_1029" stoichiometry="0.002859543" constant="true"/>
+          <speciesReference species="M_s_1032" stoichiometry="0.012013414" constant="true"/>
+          <speciesReference species="M_s_1035" stoichiometry="0.028688078" constant="true"/>
+          <speciesReference species="M_s_1039" stoichiometry="0.046748124" constant="true"/>
+          <speciesReference species="M_s_1045" stoichiometry="0.031790673" constant="true"/>
+          <speciesReference species="M_s_1048" stoichiometry="0.000287711" constant="true"/>
+          <speciesReference species="M_s_1051" stoichiometry="0.006237863" constant="true"/>
+          <speciesReference species="M_s_1056" stoichiometry="0.025946327" constant="true"/>
+          <speciesReference species="M_s_1467" stoichiometry="0.02" constant="true"/>
+          <speciesReference species="M_s_1520" stoichiometry="0.001869797" constant="true"/>
+          <speciesReference species="M_s_1545" stoichiometry="0.001533699" constant="true"/>
+          <speciesReference species="M_s_1572" stoichiometry="0.003484382" constant="true"/>
+          <speciesReference species="M_s_1107" stoichiometry="0.064278269" constant="true"/>
+          <speciesReference species="M_s_1337" stoichiometry="0.00010959803" constant="true"/>
+          <speciesReference species="M_s_1524" stoichiometry="0.00038910587" constant="true"/>
+          <speciesReference species="M_m1705" stoichiometry="8.468939e-005" constant="true"/>
+          <speciesReference species="M_m1393" stoichiometry="0.00012553956" constant="true"/>
+          <speciesReference species="M_m1700" stoichiometry="0.00057788053" constant="true"/>
+          <speciesReference species="M_m1701" stoichiometry="0.00057788053" constant="true"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="M_s_0394" stoichiometry="20.31" constant="true"/>
+          <speciesReference species="M_s_0794" stoichiometry="20.31" constant="true"/>
+          <speciesReference species="M_s_1322" stoichiometry="20.31" constant="true"/>
           <speciesReference species="M_s_0450" stoichiometry="1" constant="true"/>
         </listOfProducts>
       </reaction>
@@ -56972,6 +57088,8 @@
         <groups:listOfMembers>
           <groups:member groups:idRef="R_xAMINOACID"/>
           <groups:member groups:idRef="R_xBIOMASS"/>
+          <groups:member groups:idRef="R_xBIOMASS_CLim"/>
+          <groups:member groups:idRef="R_xBIOMASS_NLim"/>
           <groups:member groups:idRef="R_xLIPID"/>
           <groups:member groups:idRef="R_xMAINTENANCE"/>
           <groups:member groups:idRef="R_xPOOL_AC_EM"/>

@@ -1,5 +1,11 @@
 # History
 
+### Next Release
+- Annotation
+  - Infer metabolite and reaction annotation to MetaNetX by matching IDs to yeast-GEM 8.3.2.
+  - Proceed to infer metabolite and reaction annotation to KEGG, BiGG and Biocyc from the MetaNetX 3.1
+    releases `chem_xref.tsv` and `reac_xref.tsv`.
+
 ### iYali v4.1.1: fix SBML, standardized repo
 - Curation:
   - most chemical formulae are without brackets.

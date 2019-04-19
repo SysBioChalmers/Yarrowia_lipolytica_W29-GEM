@@ -10849,7 +10849,7 @@
       - s_0794: -1
     - lower_bound: 0
     - upper_bound: 1000
-    - gene_reaction_rule: YALI0D01265g
+    - gene_reaction_rule: YALI0F19910g
     - subsystem:
         - 2-Oxocarboxylic acid metabolism
         - Biosynthesis of amino acids
@@ -20662,7 +20662,7 @@
       - s_1016: -1
     - lower_bound: -1000
     - upper_bound: 1000
-    - gene_reaction_rule: YALI0D01265g
+    - gene_reaction_rule: YALI0F19910g
     - subsystem:
         - 2-Oxocarboxylic acid metabolism
         - Biosynthesis of amino acids
@@ -21278,7 +21278,7 @@
       - s_1021: -1
     - lower_bound: -1000
     - upper_bound: 1000
-    - gene_reaction_rule: YALI0D01265g
+    - gene_reaction_rule: YALI0F19910g
     - subsystem:
         - 2-Oxocarboxylic acid metabolism
         - Biosynthesis of amino acids
@@ -26756,7 +26756,7 @@
       - s_1056: -1
     - lower_bound: -1000
     - upper_bound: 1000
-    - gene_reaction_rule: YALI0D01265g
+    - gene_reaction_rule: YALI0F19910g
     - subsystem:
         - 2-Oxocarboxylic acid metabolism
         - Biosynthesis of amino acids
@@ -28540,7 +28540,7 @@
       - s_1460: 1
     - lower_bound: 0
     - upper_bound: 1000
-    - gene_reaction_rule: YALI0B03344g
+    - gene_reaction_rule: YALI0C15488g
     - confidence_score: 2
   - !!omap
     - id: y001265
@@ -30057,6 +30057,7 @@
       - s_0726: -1
     - lower_bound: 0
     - upper_bound: 1000
+    - gene_reaction_rule: YALI0E32901g or YALI0C15488g
   - !!omap
     - id: y001800
     - name: gamma-aminobutyrate exchange
@@ -30792,6 +30793,7 @@
       - s_0067: -1
     - lower_bound: -1000
     - upper_bound: 1000
+    - gene_reaction_rule: YALI0E32901g or YALI0C15488g
   - !!omap
     - id: y001902
     - name: L-methionine exchange
@@ -31572,6 +31574,7 @@
       - s_1459: -1
     - lower_bound: -1000
     - upper_bound: 1000
+    - gene_reaction_rule: YALI0C15488g
   - !!omap
     - id: y002058
     - name: sucrose exchange
@@ -38609,6 +38612,7 @@
       - s_1203: -1
     - lower_bound: -1000
     - upper_bound: 1000
+    - gene_reaction_rule: YALI0D07634g or YALI0F18590g or YALI0C13508g
     - subsystem: Pentose and glucuronate interconversions
     - annotation: !!omap
       - ec-code: 1.1.1.21
@@ -41483,6 +41487,9 @@
   - !!omap
     - id: YALI0F19866g
     - name: YALI0F19866g
+  - !!omap
+    - id: YALI0F19910g
+    - name: YALI0F19910g
   - !!omap
     - id: YALI0F20218g
     - name: YALI0F20218g

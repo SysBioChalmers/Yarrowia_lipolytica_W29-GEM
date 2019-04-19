@@ -19,10 +19,10 @@
             </rdf:Bag>
           </dcterms:creator>
           <dcterms:created rdf:parseType="Resource">
-            <dcterms:W3CDTF>2018-05-15T22:37:22Z</dcterms:W3CDTF>
+            <dcterms:W3CDTF>2019-04-19T15:27:07Z</dcterms:W3CDTF>
           </dcterms:created>
           <dcterms:modified rdf:parseType="Resource">
-            <dcterms:W3CDTF>2018-05-15T22:37:22Z</dcterms:W3CDTF>
+            <dcterms:W3CDTF>2019-04-19T15:27:08Z</dcterms:W3CDTF>
           </dcterms:modified>
           <bqbiol:is>
             <rdf:Bag>
@@ -5324,7 +5324,7 @@
           <speciesReference species="M_s_0456" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
-          <fbc:geneProductRef fbc:geneProduct="YALI0D01265g"/>
+          <fbc:geneProductRef fbc:geneProduct="YALI0F19910g"/>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="R_y000030" sboTerm="SBO:0000176" id="R_y000030" name="2-oxo-4-methyl-3-carboxypentanoate decarboxylation" reversible="false" fast="false" fbc:lowerFluxBound="FB3N0" fbc:upperFluxBound="FB4N1000">
@@ -21830,7 +21830,7 @@
           <speciesReference species="M_s_0991" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
-          <fbc:geneProductRef fbc:geneProduct="YALI0D01265g"/>
+          <fbc:geneProductRef fbc:geneProduct="YALI0F19910g"/>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="R_y000664" sboTerm="SBO:0000176" id="R_y000664" name="isoleucine transaminase" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB4N1000">
@@ -22777,7 +22777,7 @@
           <speciesReference species="M_s_0991" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
-          <fbc:geneProductRef fbc:geneProduct="YALI0D01265g"/>
+          <fbc:geneProductRef fbc:geneProduct="YALI0F19910g"/>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="R_y000700" sboTerm="SBO:0000176" id="R_y000700" name="leucine transaminase" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB4N1000">
@@ -31863,7 +31863,7 @@
           <speciesReference species="M_s_0991" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
-          <fbc:geneProductRef fbc:geneProduct="YALI0D01265g"/>
+          <fbc:geneProductRef fbc:geneProduct="YALI0F19910g"/>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="R_y001088" sboTerm="SBO:0000176" id="R_y001088" name="valine transaminase, mitochondiral" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB4N1000">
@@ -35722,7 +35722,7 @@
           <speciesReference species="M_s_1460" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
-          <fbc:geneProductRef fbc:geneProduct="YALI0B03344g"/>
+          <fbc:geneProductRef fbc:geneProduct="YALI0C15488g"/>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="R_y001265" sboTerm="SBO:0000176" id="R_y001265" name="succinate-fumarate transport" reversible="false" fast="false" fbc:lowerFluxBound="FB3N0" fbc:upperFluxBound="FB4N1000">
@@ -38185,6 +38185,12 @@
         <listOfReactants>
           <speciesReference species="M_s_0726" stoichiometry="1" constant="true"/>
         </listOfReactants>
+        <fbc:geneProductAssociation>
+          <fbc:or>
+            <fbc:geneProductRef fbc:geneProduct="YALI0E32901g"/>
+            <fbc:geneProductRef fbc:geneProduct="YALI0C15488g"/>
+          </fbc:or>
+        </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="R_y001800" sboTerm="SBO:0000176" id="R_y001800" name="gamma-aminobutyrate exchange" reversible="false" fast="false" fbc:lowerFluxBound="FB3N0" fbc:upperFluxBound="FB4N1000">
         <notes>
@@ -39334,6 +39340,12 @@
         <listOfProducts>
           <speciesReference species="M_s_0066" stoichiometry="1" constant="true"/>
         </listOfProducts>
+        <fbc:geneProductAssociation>
+          <fbc:or>
+            <fbc:geneProductRef fbc:geneProduct="YALI0E32901g"/>
+            <fbc:geneProductRef fbc:geneProduct="YALI0C15488g"/>
+          </fbc:or>
+        </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="R_y001902" sboTerm="SBO:0000176" id="R_y001902" name="L-methionine exchange" reversible="false" fast="false" fbc:lowerFluxBound="FB3N0" fbc:upperFluxBound="FB4N1000">
         <notes>
@@ -40566,6 +40578,9 @@
         <listOfProducts>
           <speciesReference species="M_s_1458" stoichiometry="1" constant="true"/>
         </listOfProducts>
+        <fbc:geneProductAssociation>
+          <fbc:geneProductRef fbc:geneProduct="YALI0C15488g"/>
+        </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="R_y002058" sboTerm="SBO:0000176" id="R_y002058" name="sucrose exchange" reversible="false" fast="false" fbc:lowerFluxBound="FB3N0" fbc:upperFluxBound="FB4N1000">
         <notes>
@@ -52694,6 +52709,13 @@
           <speciesReference species="M_s_1198" stoichiometry="1" constant="true"/>
           <speciesReference species="M_m1825" stoichiometry="1" constant="true"/>
         </listOfProducts>
+        <fbc:geneProductAssociation>
+          <fbc:or>
+            <fbc:geneProductRef fbc:geneProduct="YALI0D07634g"/>
+            <fbc:geneProductRef fbc:geneProduct="YALI0F18590g"/>
+            <fbc:geneProductRef fbc:geneProduct="YALI0C13508g"/>
+          </fbc:or>
+        </fbc:geneProductAssociation>
       </reaction>
       <reaction metaid="R_y300041" sboTerm="SBO:0000176" id="R_y300041" name="erythritol transport extracellular" reversible="true" fast="false" fbc:lowerFluxBound="FB1N1000" fbc:upperFluxBound="FB4N1000">
         <notes>
@@ -54686,6 +54708,7 @@
       <fbc:geneProduct metaid="YALI0F28193g" sboTerm="SBO:0000252" fbc:id="YALI0F28193g" fbc:label="YALI0F28193g"/>
       <fbc:geneProduct metaid="YALI0F28369g" sboTerm="SBO:0000252" fbc:id="YALI0F28369g" fbc:label="YALI0F28369g"/>
       <fbc:geneProduct metaid="YALIUNK1" sboTerm="SBO:0000252" fbc:id="YALIUNK1" fbc:label="YALIUNK1"/>
+      <fbc:geneProduct metaid="YALI0F19910g" sboTerm="SBO:0000252" fbc:id="YALI0F19910g" fbc:label="YALI0F19910g"/>
     </fbc:listOfGeneProducts>
     <groups:listOfGroups>
       <groups:group sboTerm="SBO:0000633" groups:id="group1" groups:name="2-Oxocarboxylic acid metabolism" groups:kind="partonomy">

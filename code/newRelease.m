@@ -5,7 +5,6 @@ function newRelease(bumpType)
 %
 %   bumpType    string specifying the type of release, either 'major',
 %               'minor' or 'patch'
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %Check if in master:
 currentBranch = git('rev-parse --abbrev-ref HEAD');
@@ -14,7 +13,7 @@ if ~strcmp(currentBranch,'master')
 end
 
 %Bump version number:
-oldModel   = load('../models/iYali.mat');
+oldModel   = load('../model/iYali.mat');
 oldVersion = oldModel.model.description;
 oldVersion = oldVersion(2:end);
 oldVersion = str2double(strsplit(oldVersion,'.'));

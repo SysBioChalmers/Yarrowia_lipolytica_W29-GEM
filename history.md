@@ -1,5 +1,11 @@
 # History
 
+### iYali v4.1.2: update few gene associations, format repo as standard-GEM
+- Curation:
+  - correct gene associations of BAT1/2 (doi:10.1128/AEM.00644-07) and Jen genes (doi:10.1002/mbo3.225)
+- Refactoring:
+  - reorganize folder structure to fit standard-GEM
+
 ### iYali v4.1.1: fix SBML, standardized repo
 - Curation:
   - most chemical formulae are without brackets.
@@ -15,7 +21,6 @@
   - add `.gitignore`.
 
 ### iYali v4.1.0: significant update by new reconstruction
-
 - Model is completely reconstructed from scratch, using Yeast 7.6 as template.
 - Standardized reaction IDs are introduced, referencing where the reaction came from (y0 is derived from yeast concensus network, y1 is modified from yeast concensus network, y2 is from other Yarrowia lipolytica reconstructions, y3 is manual curation).
 - Gap-filling during model reconstruction was automated via MENECO. Some reactions from the previous model that were identified through gap-filling are omitted in this version.

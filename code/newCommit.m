@@ -22,5 +22,5 @@ if ~exist('model')
 end
 
 %Save model
-exportForGit(model,'iYali','../models/',{'txt', 'xml', 'yml'},false,false);
+exportForGit(model,'iYali','../model/',{'txt', 'xml', 'yml'},false,false);
 end

@@ -38,7 +38,7 @@ newVersion = num2str(newVersion,'%d.%d.%d');
 fid     = fopen('../history.md','r');
 history = fscanf(fid,'%s');
 fclose(fid);
-if ~contains(history,['iYali' newVersion ':'])
+if ~contains(history,['iYali v' newVersion ':'])
     error('ERROR: update history.md first')
 end
 
@@ -49,10 +49,11 @@ model = importModel('../model/iYali.xml');
 model.description = ['v' newVersion];
 
 %Save model
-exportForGit(model,'iYali','../models/',{'mat', 'txt', 'xlsx', 'xml', 'yml'},true,false);
+exportForGit(model,'iYali','../model/',{'mat', 'txt', 'xlsx', 'xml', 'yml'},true,false);
 
 %Update version file:
 fid = fopen('../version.txt','wt');
 fprintf(fid,newVersion);
 fclose(fid);
 end
+

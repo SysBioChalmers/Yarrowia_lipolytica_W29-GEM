@@ -1,7 +1,6 @@
 Results/
 =======
 # Binary files (instead, use flat-text delimited files, such as CSV and TXT)
-*.xls*
 *.doc*
 
 # Byte-compiled / optimized / DLL files

@@ -17,13 +17,13 @@ _Yarrowia lipolytica_ is a promising microbial cell factory for the production o
 
 - Pubmed ID: 28725468
 
-- Last update: 2018-05-18
+- Last update: 2021-04-04
 
 - The model:
 
 |Taxonomy | Template Model | Reactions | Metabolites| Genes |
 | ------------- |:-------------:|:-------------:|:-------------:|-----:|
-|Yarrowia lipolytica W29 | yeast-GEM | 1924 | 1671 | 847 |
+|Yarrowia lipolytica W29 | yeast-GEM | 1924 | 1671 | 848 |
 
 
 This repository is administered by [@edkerk](https://github.com/edkerk/), Division of Systems and Synthetic Biology, Department of Biology and Biological Engineering, Chalmers University of Technology

@@ -7,6 +7,8 @@ function model = getEarlierModel(version)
 %   Input:
 %   version     string of either 'master' for latest release, or e.g. 
 %               '4.1.2' for a specific release.
+%   unversion   logical whether version information should be stripped from
+%               the model (opt, default false)
 %
 %   Output:
 %   model       model structure from obtained model (opt)
@@ -14,6 +16,9 @@ function model = getEarlierModel(version)
 %   Usage: model = getEarlierModel(version)
 
 nargoutchk(0,1)
+if nargin<2
+    unversion = false;
+end
 
 if strcmp(version,'master')
     status=system('git show master:model/iYali.xml > _earlierModel.xml')
@@ -39,6 +44,9 @@ elseif regexp(version,'^\d+\.\d+\.\d+$')
     end
 else
     error('''version'' should be either ''master'' or of the format ''4.1.2''.')
+end
+if unversion==true
+    model.description='iYali';
 end
 switch nargout
     case 0

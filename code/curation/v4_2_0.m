@@ -10,7 +10,7 @@ else; root(end)=[]; end; clear status
 
 %% Load iYali
 cd([root, '/code'])
-model = getEarlierModel('4.1.2'); % Modify to fit relevant model version
+model = getEarlierModel('4.1.2',true); % Modify to fit relevant model version
 
 %% Contributes to Issue #2
 % Transfer annotations from yeast-GEM to iYali whenever possible

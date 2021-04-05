@@ -1,4 +1,4 @@
-function model = getEarlierModel(version)
+function model = getEarlierModel(version,unversion)
 % getEarlierModel
 %   Obtain an earlier model version from the Git repository. If no output
 %   is specified, it will keep the file as _earlierModel.xml in the current
@@ -8,12 +8,13 @@ function model = getEarlierModel(version)
 %   version     string of either 'master' for latest release, or e.g. 
 %               '4.1.2' for a specific release.
 %   unversion   logical whether version information should be stripped from
-%               the model (opt, default false)
+%               the model (opt, default false, only applies if output is
+%               specified)
 %
 %   Output:
 %   model       model structure from obtained model (opt)
 %
-%   Usage: model = getEarlierModel(version)
+%   Usage: model = getEarlierModel(version,unversion)
 
 nargoutchk(0,1)
 if nargin<2
@@ -45,14 +46,14 @@ elseif regexp(version,'^\d+\.\d+\.\d+$')
 else
     error('''version'' should be either ''master'' or of the format ''4.1.2''.')
 end
-if unversion==true
-    model.description='iYali';
-end
 switch nargout
     case 0
         disp('Earlier model version is stored as ''_earlierModel.xml'' in the current working directory')   
     case 1
         disp('Loading earlier model version.')
         model=importModel('_earlierModel.xml');
+        if unversion==true
+            model.description='iYali';
+        end
         delete('_earlierModel.xml');
 end

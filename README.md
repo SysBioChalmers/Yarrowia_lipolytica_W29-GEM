@@ -33,7 +33,7 @@ The iYali model distributed on this GitHub repository is continuously updated, w
 
 ### **User:**
 
-To obtain iYali, clone it from [`master`](https://github.com/sysbiochalmers/Yarrowia_lipolytica_W29-GEM) in the GitHub repository, or just download the [latest release](https://github.com/sysbiochalmers/Yarrowia_lipolytica_W29-GEM/releases).
+To obtain iYali, clone it from [`main`](https://github.com/sysbiochalmers/Yarrowia_lipolytica_W29-GEM) in the GitHub repository, or just download the [latest release](https://github.com/sysbiochalmers/Yarrowia_lipolytica_W29-GEM/releases).
 
 iYali is distributed in SBML L3V1 FBCv1 format (`model/iYali.xml`), and therefore works well with any appropriate constraint-based modelling package, such as [RAVEN Toolbox](https://github.com/sysbiochalmers/raven/), [cobrapy](https://github.com/opencobra/cobrapy),  and [COBRA Toolbox](https://github.com/opencobra/cobratoolbox). Installation instructions for each package are provided on their website, after which you can use their default functions for loading and exporting of the models:
 

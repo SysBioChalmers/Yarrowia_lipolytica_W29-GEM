@@ -10,10 +10,10 @@ function newCommit(model)
 %           prior to exporting other files
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-%Check if in master:
+%Check if in main:
 currentBranch = git('rev-parse --abbrev-ref HEAD');
-if strcmp(currentBranch,'master')
-    error('ERROR: in master branch. For new releases, use newRelease.m')
+if strcmp(currentBranch,'main')
+    error('ERROR: in main branch. For new releases, use newRelease.m')
 end
 
 if ~exist('model')

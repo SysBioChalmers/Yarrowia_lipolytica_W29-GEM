@@ -6,10 +6,10 @@ function newRelease(bumpType)
 %   bumpType    string specifying the type of release, either 'major',
 %               'minor' or 'patch'
 
-%Check if in master:
+%Check if in main:
 currentBranch = git('rev-parse --abbrev-ref HEAD');
-if ~strcmp(currentBranch,'master')
-    error('ERROR: not in master')
+if ~strcmp(currentBranch,'main')
+    error('ERROR: not in main')
 end
 
 %Bump version number:

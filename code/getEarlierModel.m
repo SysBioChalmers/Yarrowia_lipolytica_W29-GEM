@@ -5,7 +5,7 @@ function model = getEarlierModel(version,unversion)
 %   directory, otherwise it will return the model as loaded by importModel.
 %
 %   Input:
-%   version     string of either 'master' for latest release, or e.g. 
+%   version     string of either 'main' for latest release, or e.g. 
 %               '4.1.2' for a specific release.
 %   unversion   logical whether version information should be stripped from
 %               the model (opt, default false, only applies if output is
@@ -21,11 +21,11 @@ if nargin<2
     unversion = false;
 end
 
-if strcmp(version,'master')
-    status=system('git show master:model/iYali.xml > _earlierModel.xml')
+if strcmp(version,'main')
+    status=system('git show main:model/iYali.xml > _earlierModel.xml')
     if status~=0
         disp('Trying legacy ''ModelFiles/xml/iYali.xml'' instead.')
-        status=system('git show master:ModelFiles/xml/iYali.xml > _earlierModel.xml')
+        status=system('git show main:ModelFiles/xml/iYali.xml > _earlierModel.xml')
         if status~=0
             delete('./_earlierModel.xml')
             error('Failed to obtain the desired model version.');
@@ -44,7 +44,7 @@ elseif regexp(version,'^\d+\.\d+\.\d+$')
         end
     end
 else
-    error('''version'' should be either ''master'' or of the format ''4.1.2''.')
+    error('''version'' should be either ''main'' or of the format ''4.1.2''.')
 end
 switch nargout
     case 0
